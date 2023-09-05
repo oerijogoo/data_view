@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>exit data</title>
+  <style>
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h1>exit data</h1>
+  <form action="/export-csv" method="post">
+    <button type="submit">Export to CSV</button>
+  </form>
+  <form action="/export-excel" method="post">
+    <button type="submit">Export to Excel</button>
+  </form>
+  <form action="/export-pdf" method="post">
+    <button type="submit">Export to PDF</button>
+  </form>
+  <table>
+    <thead>
+      <tr>
+        <th>Patient ID</th>
+        <th>Patient Name</th>
+        <th>Exit Date</th>
+        <th>Coded Value</th>
+        <th>Disposition Factor</th>
+        <th>State/Province</th>
+        <th>Facility</th>
+        <th>EICI ID</th>
+        <th>Program</th>
+        <th>Phone Number</th>
+        <th>Provider Name</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Table data will be populated dynamically -->
+    </tbody>
+  </table>
+  <script src="app.js"></script>
+</body>
+</html>

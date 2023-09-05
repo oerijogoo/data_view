@@ -1,0 +1,970 @@
+Patient ID,Patient Name,Exit Date,Coded Value,Disposition Factor,State/Province,Facility,EICI ID,Program,Phone Number,Provider Name
+33245,Beatrice Kathao Karathinga,Tue Aug 29 2023 22:06:12 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,377386223-4,e-ICI Control Program,0728780522,Bonface  Muchiri
+33190,Irene Nkirote Muriuki,Tue Aug 29 2023 22:04:27 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,401692400-5,e-ICI Control Program,0790277904,Dennis  Mugambi
+33272,FRIDAH  MAKENA,Tue Aug 29 2023 22:02:20 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,273424807-9,e-ICI Control Program,0728062468,Lisper  Makandi
+33273,FATIHA  KAWIRA,Tue Aug 29 2023 21:58:50 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,006046348-6,e-ICI Control Program,0719522877,Lisper  Makandi
+33176,Florence Kinanu Kinoti,Tue Aug 29 2023 21:56:36 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,237218688-8,e-ICI Control Program,0725591945,Bonface  Muchiri
+33244,Doris Mukiri Mwongera,Tue Aug 29 2023 21:51:50 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,796338913-0,e-ICI Control Program,0728151854,Dennis  Mugambi
+33253,PURITY KATHEKIA GEOFREY,Tue Aug 29 2023 21:48:14 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,233488163-4,e-ICI Control Program,0717648128,Dennis  Mugambi
+33280,joan kathira mutua,Tue Aug 29 2023 21:44:53 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,882209063-8,e-ICI Control Program,0716112087,Kendi  Polly
+33283,FROLENCE KAINYU NKONGE,Tue Aug 29 2023 21:42:55 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,693931934-6,e-ICI Control Program,0790652492,Polly Karimi Miriti
+33279,fridah  karwitha,Tue Aug 29 2023 21:40:01 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,631170036-0,e-ICI Control Program,0716520415,Kendi  Polly
+33399,CECILIA  MUKIRI,Tue Aug 29 2023 21:38:51 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,816167936-3,e-ICI Control Program,0713679935,Dennis  Mugambi
+33434,julieta kanyua gitobu,Tue Aug 29 2023 21:37:28 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,214032132-0,e-ICI Control Program,0729429930,Kendi  Polly
+33436,regina karwirwa karwira,Tue Aug 29 2023 21:36:23 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,166906648-0,e-ICI Control Program,0712538109,Polly Karimi Miriti
+33356,SILVANA  MAKENA,Tue Aug 29 2023 21:35:02 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,083049988-5,e-ICI Control Program,0759536499,Lisper  Makandi
+33364,LINET  KENDI,Tue Aug 29 2023 21:33:43 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,479946746-1,e-ICI Control Program,0701756880,Lisper  Makandi
+33430,STELLA  MAKENA,Tue Aug 29 2023 21:32:25 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,007662280-2,e-ICI Control Program,0710775696,Lisper  Makandi
+33431,REGINA  GITUMA,Tue Aug 29 2023 21:30:33 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,740767079-8,e-ICI Control Program,0714633956,Lisper  Makandi
+33513,Charity Coburu Kaberia,Tue Aug 29 2023 21:28:36 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,334448444-3,e-ICI Control Program,0719319199,Bonface  Muchiri
+33535,CATHERINE NDUTA MUTUA,Tue Aug 29 2023 21:27:01 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,661740768-6,e-ICI Control Program,0721451545,Kendi  Polly
+33551,AGNES GAITI GIKUNDI,Tue Aug 29 2023 21:24:34 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,460143664-7,e-ICI Control Program,0728451201,Kendi  Polly
+33523,Fridah Kagwiria Joshua,Tue Aug 29 2023 21:22:49 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,313020407-0,e-ICI Control Program,0700140003,Bonface  Muchiri
+33459,JANE  GAKII,Tue Aug 29 2023 21:17:05 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,060384881-3,e-ICI Control Program,0742237342,Lisper  Makandi
+33566,carystar nkatha murithi,Tue Aug 29 2023 21:15:40 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,944622837-2,e-ICI Control Program,0712456789,Polly Karimi Miriti
+33537,PENINAH KAJUJU MWITI,Tue Aug 29 2023 21:14:10 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,076602662-9,e-ICI Control Program,0711653414,Lisper  Makandi
+33506,PENINAH  NKATHA,Tue Aug 29 2023 21:12:36 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,294828904-2,e-ICI Control Program,0794656231,Lisper  Makandi
+33466,JANE  KARIMI,Tue Aug 29 2023 21:10:28 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,477638702-1,e-ICI Control Program,0715006319,Lisper  Makandi
+33450,Pauline Kanario Gitonga,Tue Aug 29 2023 21:07:52 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,406616402-3,e-ICI Control Program,0798476651,Bonface  Muchiri
+33546,JENNIFER RUGURU MWENDA,Tue Aug 29 2023 21:05:15 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,962497089-4,e-ICI Control Program,0719315085,Lisper  Makandi
+33554,Lucy Nkatha Mutia,Tue Aug 29 2023 21:03:31 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,934648382-0,e-ICI Control Program,0712712694,Bonface  Muchiri
+33470,JOSELYN KAGENDO GATUTA,Tue Aug 29 2023 21:00:26 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,960707421-9,e-ICI Control Program,0728249914,Dennis  Mugambi
+33527,LILIAN KINANU DICKSON,Tue Aug 29 2023 20:58:44 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,988109429-7,e-ICI Control Program,0740154787,Kendi  Polly
+33560,FLORENCE KANYIRI GITAU,Tue Aug 29 2023 20:55:33 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,034611984-5,e-ICI Control Program,0725874562,Kendi  Polly
+33482,DOREEN  NKATHA,Tue Aug 29 2023 19:40:44 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,016443240-3,e-ICI Control Program,0714253590,Dennis  Mugambi
+33543,ANNET NASIRA KIBIA,Tue Aug 29 2023 19:39:14 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,493647473-5,e-ICI Control Program,0730214587,Kendi  Polly
+33496,Peninah Kanjira Murathi,Tue Aug 29 2023 19:36:59 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,192193927-6,e-ICI Control Program,0742300227,Bonface  Muchiri
+33557,BEATRICE  KINYA,Tue Aug 29 2023 19:32:50 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,261036689-6,e-ICI Control Program,0717891931,Lisper  Makandi
+33530,LUCY NJOKI KIMATHI,Tue Aug 29 2023 19:29:38 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,787132413-8,e-ICI Control Program,0713451254,Kendi  Polly
+33517,LUCY  KATHAMBI,Tue Aug 29 2023 19:26:07 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,961018924-4,e-ICI Control Program,0758628794,Lisper  Makandi
+33487,JULIA  MULOCIA,Tue Aug 29 2023 19:24:08 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,097009600-4,e-ICI Control Program,0748453059,Dennis  Mugambi
+33558,FLORENCE  KATHAMBI,Tue Aug 29 2023 19:21:55 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,400648466-3,e-ICI Control Program,0724120988,Dennis  Mugambi
+33532,MARGRET MUTHONI DAVID,Tue Aug 29 2023 19:11:51 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,339238418-0,e-ICI Control Program,0724578454,Kendi  Polly
+33564,josphine ngugi kithinji,Tue Aug 29 2023 19:06:43 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,796409390-5,e-ICI Control Program,0712347689,Polly Karimi Miriti
+33711,DORCAS KAGENDO KARIUKI,Tue Aug 29 2023 18:31:56 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,472169274-9,e-ICI Control Program,0712458976,Polly Karimi Miriti
+33623,LYDIA  GATWIRI,Tue Aug 29 2023 18:27:08 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,110094232-3,e-ICI Control Program,0710903084,Dennis  Mugambi
+33705,vivian ngugi m'itonga,Tue Aug 29 2023 14:34:51 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,611733670-8,e-ICI Control Program,0721254122,Kendi  Polly
+33673,Bessy Kangai Bernard,Tue Aug 29 2023 14:33:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,876670971-4,e-ICI Control Program,0732498239,Bonface  Muchiri
+33666,DOREEN MUKIRI MURIUNGI,Tue Aug 29 2023 14:31:56 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,377302348-0,e-ICI Control Program,0740538753,Dennis  Mugambi
+33696,purity kanana kinoti,Tue Aug 29 2023 14:29:24 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,078891684-9,e-ICI Control Program,0725478147,Kendi  Polly
+33669,MAGDALENE MBULA MUTUMA,Tue Aug 29 2023 14:27:54 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,474134030-3,e-ICI Control Program,0768243530,Lisper  Makandi
+33714,vyvonne kinya mwiti,Tue Aug 29 2023 14:26:21 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,730900066-4,e-ICI Control Program,0785421541,Kendi  Polly
+33632,CECILIA  KENDI,Tue Aug 29 2023 14:25:03 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,394742466-3,e-ICI Control Program,0798513759,Dennis  Mugambi
+33707,catherine karwitha mutiga,Tue Aug 29 2023 14:23:24 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,238734801-0,e-ICI Control Program,0721452147,Kendi  Polly
+33697,JANET  NKIROTE,Tue Aug 29 2023 14:22:06 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,294894141-0,e-ICI Control Program,0725470361,Lisper  Makandi
+33719,CHRISTNA NAITORE MURIUNGI,Tue Aug 29 2023 14:20:10 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,141944389-8,e-ICI Control Program,0711544863,Polly Karimi Miriti
+33651,EVERYNE NGUGI MATI,Tue Aug 29 2023 13:26:23 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,717119940-4,e-ICI Control Program,0114356762,Polly Karimi Miriti
+33637,ROSE  KANINI,Tue Aug 29 2023 13:24:01 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,461949661-7,e-ICI Control Program,0721260098,Lisper  Makandi
+33708,evangeline mwiti kamundi,Tue Aug 29 2023 13:22:45 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,764728210-7,e-ICI Control Program,0724521451,Kendi  Polly
+33585,PERIS  MUKOMUNENE,Tue Aug 29 2023 13:20:18 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,488271843-2,e-ICI Control Program,0708092674,Lisper  Makandi
+33663,FRIDAH NCHABIRA MBAABU,Tue Aug 29 2023 13:14:17 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,882669130-8,e-ICI Control Program,01124547686,Polly Karimi Miriti
+33709,cynthia karwitha mwiadi,Tue Aug 29 2023 12:53:07 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,069217874-2,e-ICI Control Program,0732154870,Kendi  Polly
+33716,MARY  KARIA,Tue Aug 29 2023 12:51:34 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,480927693-6,e-ICI Control Program,0719567069,Dennis  Mugambi
+33592,RHODAH NDUKU KIMEI,Tue Aug 29 2023 12:50:19 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,091641042-6,e-ICI Control Program,0707913409,Lisper  Makandi
+33682,NANICE  KARWIRWA,Tue Aug 29 2023 12:49:02 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,933730243-5,e-ICI Control Program,0712461973,Lisper  Makandi
+33650,FLORENCE  MWANGILII,Tue Aug 29 2023 12:47:39 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,097397783-8,e-ICI Control Program,0702467469,Lisper  Makandi
+33603,ANN KIENDE KAARI,Tue Aug 29 2023 12:46:26 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,673416607-4,e-ICI Control Program,0791323466,Lisper  Makandi
+33689,EUNICE KIENDE NDUMBA,Tue Aug 29 2023 12:40:02 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,183237696-4,e-ICI Control Program,0716987193,Lisper  Makandi
+33704,juster mwendwa muraga,Tue Aug 29 2023 12:38:28 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,470311486-0,e-ICI Control Program,0720354125,Kendi  Polly
+33617,Gladys Karwirwa Mutwiri,Tue Aug 29 2023 12:37:04 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,488437080-2,e-ICI Control Program,0726143405,Bonface  Muchiri
+33738,Halima Mwendwa Murungi,Tue Aug 29 2023 12:35:45 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,006407642-5,e-ICI Control Program,0706027987,Bonface  Muchiri
+33726,SAIDA  MWAJUMA,Tue Aug 29 2023 12:34:23 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,068368468-2,e-ICI Control Program,0726233029,Lisper  Makandi
+33798,LUCY  KANINI,Tue Aug 29 2023 12:33:18 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,438383374-8,e-ICI Control Program,0719859505,Lisper  Makandi
+33837,fridah karegi marete,Tue Aug 29 2023 12:31:41 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,672373799-2,e-ICI Control Program,0117845787,Kendi  Polly
+33788,CAROLINE KAGENDO NTHIGA,Tue Aug 29 2023 12:09:06 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,016381629-1,e-ICI Control Program,0727528548,Lisper  Makandi
+33775,JOSPHINE KATHURE MUTUMA,Tue Aug 29 2023 12:07:51 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,743212193-2,e-ICI Control Program,0718049090,Polly Karimi Miriti
+33827,annrita gatakaa mbata,Tue Aug 29 2023 12:06:17 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,202268438-1,e-ICI Control Program,0712547874,Kendi  Polly
+33805,lucyline karambu kiambi,Tue Aug 29 2023 12:04:21 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,429249934-2,e-ICI Control Program,0725639854,Polly Karimi Miriti
+33727,ROSE  MWARUMWE,Tue Aug 29 2023 12:02:43 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,928868261-1,e-ICI Control Program,0728503358,Lisper  Makandi
+34134,juster mwendwa muraga,Tue Aug 29 2023 11:46:57 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,318226380-0,EICI IThemba Program,0720145213,Polly Karimi Miriti
+33792,JOYCE  KANANA,Tue Aug 29 2023 11:45:36 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,749147947-8,e-ICI Control Program,0794579098,Lisper  Makandi
+33826,banice karimi karimi,Tue Aug 29 2023 11:42:49 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,886044083-6,e-ICI Control Program,0712543219,Polly Karimi Miriti
+33734,MERCY  KAIMURI,Tue Aug 29 2023 11:40:51 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,192672948-2,e-ICI Control Program,0790035287,Lisper  Makandi
+33749,FRIDAH  KAGWIRIA,Tue Aug 29 2023 11:38:48 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,036814770-8,e-ICI Control Program,0701689629,Lisper  Makandi
+33789,ann ncekei micah,Tue Aug 29 2023 11:33:50 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,330033421-0,e-ICI Control Program,0712951685,Polly Karimi Miriti
+33820,eunice gaichugi ben,Tue Aug 29 2023 11:31:42 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,139087872-4,e-ICI Control Program,0785404600,Kendi  Polly
+33771,JULIA KAUMO MURUNGI,Tue Aug 29 2023 11:30:18 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,974193832-9,e-ICI Control Program,0717811468,Lisper  Makandi
+33803,Justa Mukami Miriti,Tue Aug 29 2023 11:28:20 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,002268841-0,e-ICI Control Program,0715483688,Dennis  Mugambi
+33893,jennifer karoki murira,Tue Aug 29 2023 00:36:12 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,244110837-6,e-ICI Control Program,0724069542,Polly Karimi Miriti
+33923,CATHERINE  KALIUNTU,Tue Aug 29 2023 00:34:41 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,809709140-2,e-ICI Control Program,0712303512,Lisper  Makandi
+33795,esther gaceri mwiti,Tue Aug 29 2023 00:31:18 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,074490749-4,e-ICI Control Program,0720717349,Kendi  Polly
+33834,irene nkatha mbae,Mon Aug 28 2023 13:48:21 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,094993079-6,e-ICI Control Program,0730124512,Kendi  Polly
+33823,charity karimi kaburu,Mon Aug 28 2023 13:46:48 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,482309178-2,e-ICI Control Program,0745125478,Kendi  Polly
+33735,Ann Kagendo Mugambi,Mon Aug 28 2023 13:27:07 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,302221933-5,e-ICI Control Program,0710914646,Bonface  Muchiri
+33836,Edith kathambi marete,Mon Aug 28 2023 13:11:48 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,300364281-0,e-ICI Control Program,0114521242,Kendi  Polly
+33778,Caroline Kagwiria Mukila,Mon Aug 28 2023 12:59:11 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,499213366-2,e-ICI Control Program,0729422400,Dennis  Mugambi
+33883,rose mwendwa mithega,Mon Aug 28 2023 12:56:48 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,982872939-3,e-ICI Control Program,0713542124,Polly Karimi Miriti
+33916,DOREEN KAINYU KIMATHI,Mon Aug 28 2023 12:54:25 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,606223320-7,e-ICI Control Program,0714521452,Kendi  Polly
+33920,JUDITH  GACHOGA,Mon Aug 28 2023 12:50:54 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,718448747-3,e-ICI Control Program,0741368354,Dennis  Mugambi
+33917,LENAH NAITORE MUTHURI,Mon Aug 28 2023 12:42:53 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,102898098-3,e-ICI Control Program,0730125412,Kendi  Polly
+33838,SALOME KATHAMBI MBURUGU,Mon Aug 28 2023 12:35:54 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,797429490-7,e-ICI Control Program,0726207369,Lisper  Makandi
+33909,ROSALID NJERI KINYWA,Mon Aug 28 2023 12:31:42 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,472686396-4,e-ICI Control Program,0112356478,Polly Karimi Miriti
+31395,Grace Mukombiti Miriti,Thu Aug 24 2023 13:10:50 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,639419819-3,e-ICI Control Program,0716703440,Bonface  Muchiri
+31320,IDAH GATAKAA NKUNJA,Thu Aug 24 2023 13:09:53 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,428463044-1,e-ICI Control Program,0790957618,Kendi  Polly
+31313,JOANINA  KAGWIRIA,Thu Aug 24 2023 13:09:00 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,648167286-0,e-ICI Control Program,0740840205,Kendi  Polly
+31290,Faith Mwendwa Daniel,Thu Aug 24 2023 13:07:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,287210647-7,e-ICI Control Program,0715760411,Bonface  Muchiri
+31223,Purity Mwende Kinyua,Thu Aug 24 2023 13:06:20 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,391746146-3,e-ICI Control Program,0719864272,Bonface  Muchiri
+31236,lucy gatabi lucy,Thu Aug 24 2023 13:03:54 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,666097698-3,e-ICI Control Program,0705439790,Kendi  Polly
+31233,Peniah Kathambi Mugambi,Thu Aug 24 2023 13:03:10 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,609222410-1,e-ICI Control Program,0706610754,Bonface  Muchiri
+31239,Jane Mwende Mutura,Thu Aug 24 2023 13:02:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,379843202-1,e-ICI Control Program,0799317642,Bonface  Muchiri
+31232,Elsy Karugi Peter,Thu Aug 24 2023 13:01:23 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,421293402-2,e-ICI Control Program,0703252968,Bonface  Muchiri
+31231,Lydia Kinya John,Thu Aug 24 2023 13:00:29 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,830870190-6,e-ICI Control Program,0715031043,Bonface  Muchiri
+31230,Loise Kanario Ncooro,Thu Aug 24 2023 12:59:36 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,611366409-5,e-ICI Control Program,0706385261,Bonface  Muchiri
+31226,Betty Kaimuri Raibu,Thu Aug 24 2023 12:58:11 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,967763492-6,e-ICI Control Program,0743881506,Bonface  Muchiri
+31195,Joan Nyawira Wachira,Thu Aug 24 2023 12:56:06 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,732064938-2,e-ICI Control Program,0729705432,Bonface  Muchiri
+31192,Lucy Mukiri Nkunja,Thu Aug 24 2023 12:55:12 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,130133830-5,e-ICI Control Program,0701827321,Bonface  Muchiri
+31191,Winfred Kanana Kirima,Thu Aug 24 2023 12:54:18 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,942327740-0,e-ICI Control Program,0725969880,Bonface  Muchiri
+31190,yvone mwendwa mwiti,Thu Aug 24 2023 12:52:53 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,773976669-4,e-ICI Control Program,0723451764,Kendi  Polly
+31715,Rose Njoki Ntongai,Thu Aug 24 2023 12:50:59 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,140486772-1,e-ICI Control Program,0791802719,Bonface  Muchiri
+31641,Joyce Nkatha John,Thu Aug 24 2023 12:49:59 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,766617133-0,e-ICI Control Program,0104922776,Bonface  Muchiri
+31615,damaris karimi solomon,Thu Aug 24 2023 12:48:59 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,844947814-1,e-ICI Control Program,0743715386,Kendi  Polly
+31544,Beatrice Gakii Mwiti,Thu Aug 24 2023 12:48:11 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,412778904-0,e-ICI Control Program,0727643664,Bonface  Muchiri
+31613,elosy murugi mutuma,Thu Aug 24 2023 12:47:27 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,328834099-9,e-ICI Control Program,0719616188,Kendi  Polly
+31611,elda gacoka gichuhi,Thu Aug 24 2023 12:46:28 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,921228996-2,e-ICI Control Program,0727982412,Kendi  Polly
+31609,linet gakii kaburu,Thu Aug 24 2023 12:45:22 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,168636276-3,e-ICI Control Program,0769797635,Kendi  Polly
+31382,Peninah Nculubi Njiru,Thu Aug 24 2023 12:44:29 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,436442889-8,e-ICI Control Program,0729027186,Bonface  Muchiri
+31422,Judy Kawira Kobia,Thu Aug 24 2023 12:43:28 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,063380660-9,e-ICI Control Program,0110494588,Bonface  Muchiri
+31392,Beatrice Kajuju Meeme,Thu Aug 24 2023 12:42:42 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,607011728-5,e-ICI Control Program,0714851203,Bonface  Muchiri
+31369,Janet Kanyua Meeme,Thu Aug 24 2023 12:41:39 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,663244922-6,e-ICI Control Program,0716026850,Bonface  Muchiri
+31381,Margret Nkoroi Muroki,Thu Aug 24 2023 12:40:23 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,119269704-1,e-ICI Control Program,0797212700,Bonface  Muchiri
+31391,Agnes Kagwiria Koome,Thu Aug 24 2023 12:39:33 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,212388848-5,e-ICI Control Program,0707190778,Bonface  Muchiri
+31366,Agnes Gakenia Kinoti,Thu Aug 24 2023 12:38:14 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,846727732-6,e-ICI Control Program,0713382034,Bonface  Muchiri
+31380,Doris Kanini Karuti,Thu Aug 24 2023 12:37:21 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,828110428-4,e-ICI Control Program,0704935471,Bonface  Muchiri
+31425,Susan kalwilo Muturia,Thu Aug 24 2023 12:36:09 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,716491621-0,e-ICI Control Program,0719270526,Bonface  Muchiri
+31364,RAEL Kambura Muthuri,Thu Aug 24 2023 12:35:15 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,339318272-4,e-ICI Control Program,0704005251,Bonface  Muchiri
+31424,Agnes mukokinya kiramburi,Thu Aug 24 2023 12:34:24 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,477922281-1,e-ICI Control Program,0706614927,Bonface  Muchiri
+31389,Tabitha Kanana Kimani,Thu Aug 24 2023 12:31:56 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,209672471-7,e-ICI Control Program,0759687811,Bonface  Muchiri
+31362,Mary Muthoni Ngiri,Thu Aug 24 2023 12:31:09 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,470160786-5,e-ICI Control Program,0724581845,Bonface  Muchiri
+31417,scolastica Mwikali Kimuyu,Thu Aug 24 2023 12:30:26 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,836831784-1,e-ICI Control Program,0727762932,Bonface  Muchiri
+31737,Marget Kananu Julius,Thu Aug 24 2023 12:28:46 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,098121847-2,e-ICI Control Program,0796023193,Bonface  Muchiri
+31741,Elisana  Gacheke,Thu Aug 24 2023 12:27:52 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,260733618-3,e-ICI Control Program,0724058893,Denis  Munene
+32041,Makena  Wincate,Thu Aug 24 2023 12:26:31 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,279396107-5,e-ICI Control Program,0728932249,Bonface  Muchiri
+31970,Ruth Makena Thiribi,Thu Aug 24 2023 12:25:25 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,241904296-1,e-ICI Control Program,0728517842,Bonface  Muchiri
+32062,doreen wanja mugambi,Thu Aug 24 2023 12:24:30 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,098066661-4,e-ICI Control Program,0727725028,Kendi  Polly
+32395,joy gatugi mwenda,Thu Aug 24 2023 12:23:37 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,480892386-8,e-ICI Control Program,0725260619,Kendi  Polly
+32402,lilian muthoni kinyua,Thu Aug 24 2023 12:22:33 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,822090080-0,e-ICI Control Program,0789274148,Kendi  Polly
+32447,TELEVINA MWENDWA MARK,Thu Aug 24 2023 12:21:31 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,488900678-1,e-ICI Control Program,0792728712,Kendi  Polly
+32451,IREEN IRUMA MWEBIA,Thu Aug 24 2023 12:19:08 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,276786169-9,e-ICI Control Program,0725404159,Kendi  Polly
+32452,JOSEPHINE MIRIKO KAMAU,Thu Aug 24 2023 12:17:34 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,981900410-3,e-ICI Control Program,0710403462,Kendi  Polly
+32455,CHARITY MAITI MUTWIRI,Thu Aug 24 2023 12:16:15 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,276117716-7,e-ICI Control Program,0727781327,Kendi  Polly
+32444,phides kanyua salesio,Thu Aug 24 2023 12:15:08 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,367346187-1,e-ICI Control Program,0727734571,Kendi  Polly
+32541,Happiness Kendi Gitonga,Thu Aug 24 2023 12:14:15 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,249483068-6,e-ICI Control Program,0705859776,Bonface  Muchiri
+32562,EDNA GATWIRI KIMATHI,Thu Aug 24 2023 12:13:16 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,379063774-2,e-ICI Control Program,0713154920,Kendi  Polly
+32566,Fridah Gachuu M'mauta,Thu Aug 24 2023 12:11:45 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,488323429-8,e-ICI Control Program,0707236581,Bonface  Muchiri
+32567,ETHER KINANU NKANATA,Thu Aug 24 2023 12:10:45 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,422892060-1,e-ICI Control Program,0712877723,Kendi  Polly
+32573,Maore Juster Kathambi,Thu Aug 24 2023 12:09:50 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,220900434-6,e-ICI Control Program,0701852765,Bonface  Muchiri
+32574,LYDIA MUTHONI KIREMA,Thu Aug 24 2023 12:08:15 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,901341414-0,e-ICI Control Program,0701691615,Lisper  Makandi
+32578,Zippy Karegi Kithinji,Thu Aug 24 2023 12:07:19 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,126388160-7,e-ICI Control Program,0727247074,Bonface  Muchiri
+32582,lydia  kawira,Thu Aug 24 2023 12:06:04 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,670779703-8,e-ICI Control Program,0704003783,Polly Karimi Miriti
+32536,Margret Mwendwa Mutia,Thu Aug 24 2023 11:21:33 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,822384613-3,e-ICI Control Program,0725201875,Bonface  Muchiri
+32486,MERCY KINANU MUTETHIA,Thu Aug 24 2023 11:19:44 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,063433894-1,e-ICI Control Program,0743484968,Kendi  Polly
+32584,CATHERINE NKIROTE MURITHI,Thu Aug 24 2023 11:18:44 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,282449204-1,e-ICI Control Program,0114232541,Kendi  Polly
+32703,Harriet maiga Arimi,Thu Aug 24 2023 11:17:10 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,971736837-8,e-ICI Control Program,0706419527,Polly Karimi Miriti
+32677,Gladys Ncabani Mutuma,Thu Aug 24 2023 11:16:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,400361667-1,e-ICI Control Program,0704025082,Bonface  Muchiri
+32685,FAITH KAJUJU KIMATHI,Thu Aug 24 2023 11:14:25 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,442462228-2,e-ICI Control Program,0726365862,Kendi  Polly
+32704,ROSE KARIMI GEOFRY,Thu Aug 24 2023 11:13:31 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,984870178-6,e-ICI Control Program,0745364445,Polly Karimi Miriti
+32640,Mercy Kageni Njagi,Thu Aug 24 2023 11:12:29 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,348039961-1,e-ICI Control Program,0723296486,Bonface  Muchiri
+32583,NANCY KINANU MWONGERA,Thu Aug 24 2023 11:11:21 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,423713841-9,e-ICI Control Program,0792648754,Kendi  Polly
+32717,Irene Kananu Mwiti,Thu Aug 24 2023 11:10:11 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,277791112-0,e-ICI Control Program,0717443576,Lisper  Makandi
+32749,Makena Brendah Ngore,Thu Aug 24 2023 11:09:07 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,924810816-0,e-ICI Control Program,0713009357,Bonface  Muchiri
+32718,WINFRED  KARIMI,Thu Aug 24 2023 11:07:54 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,861806384-9,e-ICI Control Program,0729340301,Lisper  Makandi
+32725,EDITH  KINYA,Thu Aug 24 2023 11:07:03 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,630766304-4,e-ICI Control Program,0795205562,Lisper  Makandi
+32700,NANCY GAKII GRERALD,Thu Aug 24 2023 11:06:00 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,808307800-9,e-ICI Control Program,0745124754,Kendi  Polly
+32745,JOY  KINYA,Thu Aug 24 2023 11:01:29 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,107423641-3,e-ICI Control Program,0745984885,Lisper  Makandi
+32847,LILIAN KAGWIRIA MUNENE,Thu Aug 24 2023 11:00:17 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,470099933-9,e-ICI Control Program,0745947469,Polly Karimi Miriti
+32707,regina kiende murithi,Thu Aug 24 2023 10:58:35 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,788928726-9,e-ICI Control Program,0716204492,Polly Karimi Miriti
+32880,DORIS  KANINI,Thu Aug 24 2023 10:57:10 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,426462292-1,e-ICI Control Program,0706252271,Lisper  Makandi
+32899,MERCY KANANA MUTEMBEI,Thu Aug 24 2023 10:55:10 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,961412443-7,e-ICI Control Program,0792512017,Polly Karimi Miriti
+32815,Grace Karimi Nyerere,Thu Aug 24 2023 10:54:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,343323910-4,e-ICI Control Program,0712697548,Bonface  Muchiri
+32788,EVERGELINE MWENDWA KIBITI,Thu Aug 24 2023 10:53:23 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,082820046-9,e-ICI Control Program,0147878444,Kendi  Polly
+32817,SUSAN WANGUI MWANGI,Thu Aug 24 2023 10:44:02 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,708168400-8,e-ICI Control Program,0796514091,Polly Karimi Miriti
+32896,JACKLINE  KENDI,Thu Aug 24 2023 10:42:43 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,369912363-8,e-ICI Control Program,0758044852,Lisper  Makandi
+33019,JENNIFER  KARIGU,Thu Aug 24 2023 10:38:05 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,480107830-6,e-ICI Control Program,0790478842,Lisper  Makandi
+33023,ROSE ANN KINYA,Thu Aug 24 2023 10:37:02 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,988334307-2,e-ICI Control Program,0719630598,Polly Karimi Miriti
+33021,FAITH  NTINYARI,Thu Aug 24 2023 10:32:15 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,608060809-1,e-ICI Control Program,0727671878,Lisper  Makandi
+33028,DAMARIS  KABURO,Thu Aug 24 2023 10:31:13 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,486467412-4,e-ICI Control Program,0710223776,Lisper  Makandi
+33002,Everlyne Gakii Mutwiri,Thu Aug 24 2023 10:29:11 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,823616621-4,e-ICI Control Program,0712312589,Dennis  Mugambi
+33006,Faith Karimi Titus,Thu Aug 24 2023 10:28:05 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,089846442-5,e-ICI Control Program,0721879900,Dennis  Mugambi
+33030,purity kinya bundi,Thu Aug 24 2023 10:23:34 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,406303846-9,e-ICI Control Program,0752535006,Kendi  Polly
+32988,JOY KARAMBU KIUGU,Thu Aug 24 2023 10:22:15 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,184796293-1,e-ICI Control Program,0713944269,Kendi  Polly
+33011,JACKLINE  KANGAI,Thu Aug 24 2023 10:20:01 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,077483716-5,e-ICI Control Program,0768120436,Lisper  Makandi
+33151,JANE  KATHEI,Thu Aug 24 2023 10:15:43 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,983000210-2,e-ICI Control Program,0703363246,Lisper  Makandi
+33039,GLORY KARIMI MUTWIRI,Thu Aug 24 2023 10:12:29 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,860483886-5,e-ICI Control Program,0714971486,Polly Karimi Miriti
+33119,Ann Mwende Frederick,Thu Aug 24 2023 10:10:31 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,336389444-9,e-ICI Control Program,0728911150,Dennis  Mugambi
+33153,ESTHER  NKATHA,Thu Aug 24 2023 10:06:48 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,081118718-6,e-ICI Control Program,0726707026,Lisper  Makandi
+33048,STELLA KANANA GITUMA,Thu Aug 24 2023 10:04:36 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,337473280-2,e-ICI Control Program,0710893076,Polly Karimi Miriti
+33152,LUCY AUMA ODUOR,Thu Aug 24 2023 10:01:58 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,839270712-4,e-ICI Control Program,0791913742,Polly Karimi Miriti
+33145,MERCY  KANYIRI,Thu Aug 24 2023 09:53:45 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,016339909-0,e-ICI Control Program,0723839079,Lisper  Makandi
+33159,mary makena kaburu,Thu Aug 24 2023 09:48:23 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,133342683-9,e-ICI Control Program,0725844263,Kendi  Polly
+33259,Beatrice Kinanu Kubai,Thu Aug 24 2023 09:43:53 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,088238062-9,e-ICI Control Program,0723674843,Dennis  Mugambi
+33230,Purity Mwathimba Gitonga,Thu Aug 24 2023 09:35:20 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,117896947-1,e-ICI Control Program,0758967882,Bonface  Muchiri
+33917,LENAH NAITORE MUTHURI,Wed Aug 23 2023 16:20:34 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,102898098-3,e-ICI Control Program,0730125412,Kendi  Polly
+33854,JACKLINE MAKENA VERENASIO,Wed Aug 23 2023 16:19:33 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,482762898-5,e-ICI Control Program,0725896741,Polly Karimi Miriti
+33910,JULIA KANANA MUGAMBI,Wed Aug 23 2023 16:18:35 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,767987489-6,e-ICI Control Program,0725638756,Polly Karimi Miriti
+33897,marryann gaichugi mugambi,Wed Aug 23 2023 16:17:38 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,440873031-7,e-ICI Control Program,0720365412,Kendi  Polly
+33921,BETTY KINYA KABURU,Wed Aug 23 2023 16:16:36 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,233160078-9,e-ICI Control Program,0732014512,Kendi  Polly
+33911,veronicah gaichugi mbae,Wed Aug 23 2023 16:14:59 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,613269424-8,e-ICI Control Program,0754124545,Kendi  Polly
+33902,karen ntinyari mugambi,Wed Aug 23 2023 16:13:36 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,902020276-9,e-ICI Control Program,0736524545,Kendi  Polly
+33926,SELINA  DOYO,Wed Aug 23 2023 16:11:55 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,809674642-8,e-ICI Control Program,0721355677,Dennis  Mugambi
+33898,hildah kaaria mutea,Wed Aug 23 2023 16:10:22 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,634784464-6,e-ICI Control Program,0721454732,Polly Karimi Miriti
+33922,MARIETA KARAMBU MARETE,Wed Aug 23 2023 16:09:11 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,108111760-6,e-ICI Control Program,0721214512,Kendi  Polly
+33912,FAITH  MUTHONI,Wed Aug 23 2023 16:08:19 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,039174994-2,e-ICI Control Program,0741368354,Dennis  Mugambi
+33913,marieta ngugi mwitari,Wed Aug 23 2023 16:07:18 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,414486744-9,e-ICI Control Program,0720124521,Kendi  Polly
+33903,CHRISTNE NJOKI MURITHI,Wed Aug 23 2023 16:06:25 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,973199964-6,e-ICI Control Program,0724016352,Polly Karimi Miriti
+33915,CHRISTINE  MWENDWA,Wed Aug 23 2023 16:05:12 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,238367929-3,e-ICI Control Program,0742987290,Lisper  Makandi
+33914,yvonne nkatha mukire,Wed Aug 23 2023 16:04:03 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,301892711-5,e-ICI Control Program,0712354125,Kendi  Polly
+33907,BRETA KAWIRA MUTHOMI,Wed Aug 23 2023 16:01:16 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,768034299-0,e-ICI Control Program,0113245657,Polly Karimi Miriti
+33918,DELFINA  MUKIRI,Wed Aug 23 2023 16:00:05 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,171971078-0,e-ICI Control Program,0712568485,Lisper  Makandi
+33966,CHARITY NGITO MUREGA,Wed Aug 23 2023 15:58:51 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,083036770-2,e-ICI Control Program,0746309461,Lisper  Makandi
+33972,JANE NCERI KIRIMI,Wed Aug 23 2023 15:57:49 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,166116807-8,e-ICI Control Program,0716140088,Lisper  Makandi
+34009,Faith Njeri Muchiri,Wed Aug 23 2023 15:56:28 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,147478440-0,e-ICI Control Program,0715245681,Dennis  Mugambi
+34311,MERCY KINANU MUCHENA,Wed Aug 23 2023 15:49:11 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,793338776-8,e-ICI Control Program,0727389968,Lisper  Makandi
+34122,sofia kawira Mbae,Wed Aug 23 2023 15:47:11 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,433118916-9,e-ICI Control Program,0720411645,Polly Karimi Miriti
+34024,EUNAH  WANGARI,Wed Aug 23 2023 15:44:49 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,389311679-2,e-ICI Control Program,0724310400,Dennis  Mugambi
+34126,MERCY  KARWIRWA,Wed Aug 23 2023 15:43:50 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,462429109-4,e-ICI Control Program,0727871030,Lisper  Makandi
+34078,Lydia Mwendwa Kangai,Wed Aug 23 2023 15:42:56 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,104901091-9,e-ICI Control Program,0791323598,Bonface  Muchiri
+34120,caroline akinyi awour,Wed Aug 23 2023 15:41:54 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,873946132-8,e-ICI Control Program,0712471652,Polly Karimi Miriti
+34065,"FRIDAH GACHERI M""NKURI",Wed Aug 23 2023 15:40:30 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,214430740-8,e-ICI Control Program,0702390176,Dennis  Mugambi
+34135,loise kinya kinoti,Wed Aug 23 2023 15:39:25 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,726874243-9,e-ICI Control Program,0724635232,Polly Karimi Miriti
+34023,Dorcas  Mukami,Wed Aug 23 2023 15:38:15 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,202243481-1,e-ICI Control Program,0726976334,Dennis  Mugambi
+34117,stella jerusha mutegi,Wed Aug 23 2023 15:37:12 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,102790211-1,e-ICI Control Program,0712471563,Polly Karimi Miriti
+34064,IREEN KARAMBU KINYUA,Wed Aug 23 2023 15:34:38 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,217868630-5,e-ICI Control Program,0700240211,Lisper  Makandi
+33934,Priscilla  Kalainto,Wed Aug 23 2023 15:33:11 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,234170068-6,e-ICI Control Program,0700133739,Lisper  Makandi
+34089,EUNICE  KAREMI,Wed Aug 23 2023 15:20:26 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,800907447-0,e-ICI Control Program,0726907457,Lisper  Makandi
+34119,EVERLYNE  NYABOCHUA,Wed Aug 23 2023 15:17:01 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,722732824-7,e-ICI Control Program,0758720780,Dennis  Mugambi
+34114,diana gatwiri marete,Wed Aug 23 2023 15:15:47 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,288179027-9,e-ICI Control Program,0712471635,Polly Karimi Miriti
+34131,TABITHA  NGUTA,Wed Aug 23 2023 15:12:46 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,036032080-8,e-ICI Control Program,0705439697,Lisper  Makandi
+34129,everyline mwaromo kiambi,Wed Aug 23 2023 15:11:26 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,122327244-2,e-ICI Control Program,0723565474,Polly Karimi Miriti
+34118,SEBELINA  KINYA,Wed Aug 23 2023 15:09:57 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,318836998-1,e-ICI Control Program,0720950802,Lisper  Makandi
+34113,ann mwari kirimi,Wed Aug 23 2023 15:08:40 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,187799494-5,e-ICI Control Program,0724036554,Polly Karimi Miriti
+34074,FAITH KAJUJU DENNIS,Wed Aug 23 2023 15:06:57 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,934388196-8,e-ICI Control Program,0712877631,Lisper  Makandi
+34312,ELOSY  KATHAMBI,Wed Aug 23 2023 15:05:10 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,744404671-3,e-ICI Control Program,0702747768,Lisper  Makandi
+34132,joanina karambu mati,Wed Aug 23 2023 14:56:15 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,799091208-6,e-ICI Control Program,07124563524,Polly Karimi Miriti
+34061,JACKLINE GAKII MWATHI,Wed Aug 23 2023 13:55:28 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,679844463-1,e-ICI Control Program,0758897074,Dennis  Mugambi
+34115,precious mueni mureti,Wed Aug 23 2023 13:53:55 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,918379992-4,e-ICI Control Program,0724123212,Polly Karimi Miriti
+34121,LILIAN  KAGWIRIA,Wed Aug 23 2023 13:51:43 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,703376808-1,e-ICI Control Program,0700492315,Lisper  Makandi
+34096,SEVERINA  KAGENDO,Wed Aug 23 2023 13:48:38 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,246090103-2,e-ICI Control Program,0741935510,Dennis  Mugambi
+34165,SUSAN  NABITI,Wed Aug 23 2023 13:46:47 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,897613420-8,e-ICI Control Program,0710773918,Dennis  Mugambi
+34201,FLORENCE  KANYUA,Wed Aug 23 2023 13:45:44 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,260701890-6,e-ICI Control Program,0111347871,Dennis  Mugambi
+34205,LOISE  KANANU,Wed Aug 23 2023 13:44:04 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,493426240-5,e-ICI Control Program,0725401206,Lisper  Makandi
+34217,LUCY  NAITORE,Wed Aug 23 2023 13:42:56 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,397971460-1,e-ICI Control Program,0742126411,Lisper  Makandi
+34168,PURITY  KARIMI,Wed Aug 23 2023 13:41:39 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,099371489-8,e-ICI Control Program,0725824923,Lisper  Makandi
+34286,EDITH  MURIITHI,Wed Aug 23 2023 13:40:12 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,118167043-9,e-ICI Control Program,0700481215,Dennis  Mugambi
+33749,FRIDAH  KAGWIRIA,Wed Aug 23 2023 13:37:27 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,036814770-8,e-ICI Control Program,0701689629,Lisper  Makandi
+34310,PURITY KINYA MURIUNGI,Wed Aug 23 2023 13:35:36 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,886206183-8,e-ICI Control Program,0719587448,Dennis  Mugambi
+34297,JOYCE  NKATHA,Wed Aug 23 2023 13:34:13 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,833131247-3,e-ICI Control Program,0707772483,Lisper  Makandi
+34277,LUCY  KARIMI,Wed Aug 23 2023 13:31:34 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,370242333-0,e-ICI Control Program,0702914415,Lisper  Makandi
+34234,GRACE  KANGAI,Wed Aug 23 2023 13:29:11 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,973963446-8,e-ICI Control Program,0110545686,Dennis  Mugambi
+34316,DAMARIS  WANJIKU,Wed Aug 23 2023 13:28:04 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,078830840-1,e-ICI Control Program,0710836738,Lisper  Makandi
+34255,PURITY  KAGWIRIA,Wed Aug 23 2023 13:27:09 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,819884289-3,e-ICI Control Program,0722326977,Dennis  Mugambi
+34315,DORCAS  MWONJIRU,Wed Aug 23 2023 13:26:11 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,004047602-0,e-ICI Control Program,0710941725,Lisper  Makandi
+34307,LYDIAH  KARAMANA,Wed Aug 23 2023 13:25:06 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,170123317-1,e-ICI Control Program,0718486289,Dennis  Mugambi
+34294,CHARITY  KABURO,Wed Aug 23 2023 13:24:09 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,280199633-7,e-ICI Control Program,0722351132,Lisper  Makandi
+34283,MARICELLA  COBITO,Wed Aug 23 2023 13:23:09 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,681480720-9,e-ICI Control Program,0741395746,Lisper  Makandi
+34321,REBECCA  KARUTA,Wed Aug 23 2023 13:21:45 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,443116412-0,e-ICI Control Program,0720350427,Lisper  Makandi
+34323,SELINA  KALINGU,Wed Aug 23 2023 13:20:38 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,946472983-0,e-ICI Control Program,0724506190,Lisper  Makandi
+34317,FLORENCE  KARIMI,Wed Aug 23 2023 13:18:13 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,394449923-9,e-ICI Control Program,0712352991,Lisper  Makandi
+34325,PRISCILLA  KAIMURI,Wed Aug 23 2023 13:16:19 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,613467840-5,e-ICI Control Program,07071117824,Lisper  Makandi
+34292,CONSOLATA  KARIMI,Wed Aug 23 2023 13:13:44 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,227777917-5,e-ICI Control Program,0725853658,Lisper  Makandi
+34326,JOYCE  MBUGUA,Wed Aug 23 2023 13:10:39 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,824083304-9,e-ICI Control Program,0726570643,Lisper  Makandi
+34319,SUSAN  NDUNE,Wed Aug 23 2023 13:07:29 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,123876814-5,e-ICI Control Program,0701093967,Lisper  Makandi
+34320,JOANINA  MWENDWA,Wed Aug 23 2023 13:06:19 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,297694883-2,e-ICI Control Program,0706289985,Lisper  Makandi
+34329,SABELLA  NKIROTE,Wed Aug 23 2023 12:52:35 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,942242639-6,e-ICI Control Program,0793708080,Lisper  Makandi
+34330,JOSEPHINE  KAINDA,Wed Aug 23 2023 12:50:07 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,710091866-8,e-ICI Control Program,0786324587,Lisper  Makandi
+34331,MARY  KIBURIO,Wed Aug 23 2023 12:49:02 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,880374039-1,e-ICI Control Program,0701615135,Lisper  Makandi
+34343,LYDYA KAJUJU MATUMBI,Wed Aug 23 2023 12:46:28 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,417204280-8,e-ICI Control Program,0723163838,Dennis  Mugambi
+34144,doreen wanja kaburu,Wed Aug 23 2023 12:44:46 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,940826081-9,e-ICI Control Program,0707074558,Polly Karimi Miriti
+34345,FRIDAH  KANANU,Wed Aug 23 2023 12:41:43 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,300006103-0,e-ICI Control Program,0714759804,Dennis  Mugambi
+34351,"JULIA NGUTA M""ANAMPIU",Wed Aug 23 2023 12:39:23 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,734818069-1,e-ICI Control Program,0720903153,Lisper  Makandi
+34427,Jeniffer Wanja Moses,Wed Aug 23 2023 12:37:43 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,018333847-4,e-ICI Control Program,0723501977,Bonface  Muchiri
+10411,RAEL  NTINYARI,Wed Aug 23 2023 12:36:09 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,260196844-5,e-ICI Control Program,0727528422,Super  User
+34431,ANGELICA KARIMI MUNYWAA,Wed Aug 23 2023 12:34:41 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,961468622-9,e-ICI Control Program,0716030577,Polly Karimi Miriti
+34415,STELLA  KATHAMBI,Wed Aug 23 2023 12:32:01 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,700849643-7,e-ICI Control Program,0720699303,Lisper  Makandi
+34384,LINAH KAGENDO MWONGERA,Wed Aug 23 2023 12:29:49 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,981817011-1,e-ICI Control Program,0724536574,Polly Karimi Miriti
+34434,LINAH MWENDWA KATHURE,Wed Aug 23 2023 12:26:12 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,869342449-4,e-ICI Control Program,0718549712,Lisper  Makandi
+34440,PRISCILLA KARAMBU LICHORO,Wed Aug 23 2023 12:25:06 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,322072213-0,e-ICI Control Program,0727412747,Lisper  Makandi
+34420,JULIET KAIMENYI KARANI,Wed Aug 23 2023 12:21:44 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,634161692-5,e-ICI Control Program,0723621421,Polly Karimi Miriti
+34409,REBECCA MAKENA KITHINJI,Wed Aug 23 2023 12:16:52 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,667841641-0,e-ICI Control Program,0769107963,Lisper  Makandi
+34478,LYDIA  KAREI,Wed Aug 23 2023 12:12:32 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,441467340-2,e-ICI Control Program,0728259774,Dennis  Mugambi
+34526,TRUFENA  KENDI,Wed Aug 23 2023 12:08:57 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,680879933-9,e-ICI Control Program,0741195035,Dennis  Mugambi
+34492,Mwende Dolphina Francis,Wed Aug 23 2023 12:06:29 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,172990778-0,e-ICI Control Program,0740385917,Bonface  Muchiri
+34461,ASTERIA KAGENI DAVID,Wed Aug 23 2023 12:05:16 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,333224162-3,e-ICI Control Program,0712365499,Polly Karimi Miriti
+34486,JANE  NKIROTE,Wed Aug 23 2023 12:01:25 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,762402264-1,e-ICI Control Program,0745392390,Dennis  Mugambi
+34501,AGNES WANJA M'ATUGI,Wed Aug 23 2023 11:53:55 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,990042220-6,e-ICI Control Program,0723116385,Polly Karimi Miriti
+34520,PAMELA KIGURI KIMATHI,Wed Aug 23 2023 11:41:47 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,730749992-6,e-ICI Control Program,0792306719,Dennis  Mugambi
+34467,HOPE MAGRET MWANDIKI,Wed Aug 23 2023 11:35:26 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,676712721-7,e-ICI Control Program,0713656452,Polly Karimi Miriti
+34528,LUCY  KIBURIO,Tue Aug 22 2023 13:47:08 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,939462733-6,EICI IThemba Program,0723214272,Lisper  Makandi
+34106,AGNES MARINGA KIOGORA,Tue Aug 22 2023 12:29:58 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,809702002-1,e-ICI Control Program,0717974759,Lisper  Makandi
+34598,CAROLINE NKIROTE KINOTI,Tue Aug 22 2023 12:11:07 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,474769628-6,e-ICI Control Program,0716408607,Dennis  Mugambi
+30892,Lydia  Kajuju,Tue Aug 22 2023 12:04:59 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,678993190-1,e-ICI Control Program,0724331586,Lewis  Kigunda
+34419,JUDY  KATHAMBI,Tue Aug 22 2023 11:53:03 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,393619699-1,e-ICI Control Program,0710969266,Lisper  Makandi
+33492,SOPHIA  KAIMURI,Tue Aug 22 2023 11:45:39 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,392298033-3,EICI IThemba Program,0723682067,Lisper  Makandi
+28411,Lucy Kendi Mwamba,Tue Aug 22 2023 11:36:57 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,126774878-6,e-ICI Control Program,0723214272,Lewis  Kigunda
+29326,Grace  Kajira,Tue Aug 22 2023 11:32:04 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,306494398-2,e-ICI Control Program,0720495000,Lewis  Kigunda
+29383,Grace  Karamta,Tue Aug 22 2023 11:25:50 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,163318684-4,e-ICI Control Program,0724954103,Lewis  Kigunda
+29541,Agnes Karimi Inanga,Tue Aug 22 2023 11:06:30 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,742882400-2,e-ICI Control Program,0713074798,Lewis  Kigunda
+29328,Mary Nkirote Mbaya,Tue Aug 22 2023 10:55:16 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,873798772-0,EICI IThemba Program,0707294653,Lewis  Kigunda
+28138,Salome Kanario Julius,Tue Aug 22 2023 10:51:15 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,634749434-3,e-ICI Control Program,0743500217,Denis  Munene
+34646,BETTY KARIMI KIAMBI,Tue Aug 22 2023 10:44:22 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,102876080-7,EICI IThemba Program,0768260569,Lisper  Makandi
+28124,Mary Nyokabi Muhoro,Mon Aug 21 2023 15:00:23 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,690808408-7,EICI IThemba Program,0728626859,Lewis  Kigunda
+34124,EUNICE  MWENDWA,Mon Aug 21 2023 14:32:06 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,927223187-0,EICI IThemba Program,0789297396,Lisper  Makandi
+34564,JANE  KAMATHI,Mon Aug 21 2023 14:19:25 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,128442164-9,EICI IThemba Program,0726388087,Dennis  Mugambi
+28121,Purity Kathambi Kiruki,Mon Aug 21 2023 13:52:44 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,694284683-0,EICI IThemba Program,0728525011,Lewis  Kigunda
+33123,Lilian kawira kinyua,Mon Aug 21 2023 13:21:50 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,242131963-9,EICI IThemba Program,0702981110,Lisper  Makandi
+29253,Jacinta Karoki Gikundi,Mon Aug 21 2023 13:18:08 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,404436036-2,e-ICI Control Program,0724465091,Lewis  Kigunda
+29364,Lilian Mwendwa Muriungi,Mon Aug 21 2023 13:11:18 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,927814063-8,EICI IThemba Program,0725779385,Lewis  Kigunda
+34510,PAULINE GITURA CHARLES,Mon Aug 14 2023 11:32:27 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,381377016-5,e-ICI Control Program,0717156312,Lisper  Makandi
+34793,ESTHER  KARIMI,Mon Aug 07 2023 16:08:33 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,894734802-8,e-ICI Control Program,0797588309,Dennis  Mugambi
+34762,DORIS  NTINYARI,Mon Aug 07 2023 16:04:40 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,298731687-0,e-ICI Control Program,0721619123,Lisper  Makandi
+34714,ANN TERESA KINUTHIA,Mon Aug 07 2023 16:03:53 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,069108999-9,e-ICI Control Program,0714917036,Polly Karimi Miriti
+34780,pamela kawira mbae,Mon Aug 07 2023 16:02:59 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,606232176-2,EICI IThemba Program,0713465025,Polly Karimi Miriti
+34772,JENNIFER  AWINO,Mon Aug 07 2023 16:02:02 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,024488301-3,e-ICI Control Program,07258242005,Dennis  Mugambi
+34753,Anjelica Muhubiri Muroki,Mon Aug 07 2023 16:01:21 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,138382827-2,e-ICI Control Program,0750223411,Bonface  Muchiri
+34773,JOSYLINE  NGUGI,Mon Aug 07 2023 16:00:29 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,484768421-6,EICI IThemba Program,0712365248,Lisper  Makandi
+34776,MERCY NKIROTE MBAYA,Mon Aug 07 2023 15:59:37 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,407776726-9,EICI IThemba Program,0712136852,Lisper  Makandi
+34777,grace karegi mwiti,Mon Aug 07 2023 15:58:42 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,171089761-0,EICI IThemba Program,0716451990,Polly Karimi Miriti
+34757,FLORENCE  GIKUNDA,Mon Aug 07 2023 15:57:55 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,911114716-2,EICI IThemba Program,0700364466,Dennis  Mugambi
+34764,anjelica karea karea,Mon Aug 07 2023 15:57:05 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,049438870-5,e-ICI Control Program,0736942079,Polly Karimi Miriti
+34738,SUSAN  MWOTHURA,Mon Aug 07 2023 15:56:16 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,479313270-7,e-ICI Control Program,0724891913,Dennis  Mugambi
+34778,josphine nkatha kinoti,Mon Aug 07 2023 15:55:31 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,013988724-4,EICI IThemba Program,0714171814,Polly Karimi Miriti
+34765,fridah kinya muthomi,Mon Aug 07 2023 15:54:40 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,773002831-8,e-ICI Control Program,0742703203,Polly Karimi Miriti
+34732,JOSLYNE KATHAMBI MWONGERA,Mon Aug 07 2023 15:53:53 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,771747049-1,EICI IThemba Program,0707610710,Lisper  Makandi
+34781,SUSAN MUNGERI JULIUS,Mon Aug 07 2023 15:52:51 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,922278839-1,e-ICI Control Program,0715312606,Lisper  Makandi
+34828,MARY KARIMI MBERIA,Mon Aug 07 2023 15:52:03 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,807346142-1,e-ICI Control Program,0705896925,Dennis  Mugambi
+34852,CAROLINE KAGWIRIA MURIRA,Mon Aug 07 2023 15:51:03 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,780411990-2,e-ICI Control Program,0712369865,Polly Karimi Miriti
+34797,JENNIFER  KARIMI,Mon Aug 07 2023 15:50:16 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,130213708-6,e-ICI Control Program,0717603802,Dennis  Mugambi
+34865,GLADYS  NTARARA,Mon Aug 07 2023 15:49:30 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,681460404-4,e-ICI Control Program,0711919713,Lisper  Makandi
+34845,VERONICA NKATHA MITHIKA,Mon Aug 07 2023 15:48:44 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,747838893-2,e-ICI Control Program,0710528170,Bonface  Muchiri
+34801,JOSEPHINE  KATHAMBI,Mon Aug 07 2023 15:47:22 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,070419292-1,e-ICI Control Program,0705326401,Dennis  Mugambi
+34835,ROSE KENDI PATRICK,Mon Aug 07 2023 15:46:33 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,801713012-4,e-ICI Control Program,0716847587,Dennis  Mugambi
+34868,ANGELA MWIKALI MUTHOMI,Mon Aug 07 2023 15:45:50 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,340160016-2,e-ICI Control Program,0770236542,Polly Karimi Miriti
+34805,SAINA GATWIRI KAMENCU,Mon Aug 07 2023 15:44:30 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,927839649-5,e-ICI Control Program,0705148909,Lisper  Makandi
+34867,SARAH NTINYARI NTO ANAMPIU,Mon Aug 07 2023 15:43:27 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,442138913-3,e-ICI Control Program,0728850317,Lisper  Makandi
+34836,LUCY NJIRU MURITHI,Mon Aug 07 2023 15:42:37 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,260961833-1,e-ICI Control Program,0713215231,Lisper  Makandi
+34822,BETTY KAARI KIRIMI,Mon Aug 07 2023 15:41:28 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,469782107-4,e-ICI Control Program,0712369654,Polly Karimi Miriti
+34791,MERCY MAKENA MUREA,Mon Aug 07 2023 15:40:37 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,296734889-3,e-ICI Control Program,0725509895,Lisper  Makandi
+34839,STELLA NKIROTE KITHINJI,Mon Aug 07 2023 15:39:46 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,246337440-1,e-ICI Control Program,0714520680,Lisper  Makandi
+34830,SABINA GAITI MUTHURO,Mon Aug 07 2023 15:38:58 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,138396774-0,e-ICI Control Program,0712354623,Polly Karimi Miriti
+34855,EDITH KAGWIRIA KINOTI,Mon Aug 07 2023 15:38:09 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,913382442-6,e-ICI Control Program,0725220744,Lisper  Makandi
+34842,ANN MUKOJERU NKONGE,Mon Aug 07 2023 15:36:09 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,820339369-2,e-ICI Control Program,0712456357,Polly Karimi Miriti
+34851,Nelly Kaari Kimathi,Mon Aug 07 2023 15:35:04 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,740417828-2,e-ICI Control Program,0792766783,Bonface  Muchiri
+34795,JOYCE WANJA RAUNI,Mon Aug 07 2023 15:33:42 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,061380818-7,e-ICI Control Program,0795482594,Lisper  Makandi
+34912,Dorothy Kathure Mutura,Mon Aug 07 2023 15:32:43 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,187016013-0,e-ICI Control Program,0783079948,Bonface  Muchiri
+34907,MARY MBITHE KALWIGI,Mon Aug 07 2023 15:31:51 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,661324144-4,e-ICI Control Program,0720069997,Lisper  Makandi
+34898,violet makandi muthuri,Mon Aug 07 2023 15:30:59 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,331439826-8,e-ICI Control Program,0725314325,Polly Karimi Miriti
+34903,veronicah kathambi karani,Mon Aug 07 2023 15:29:59 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,243603046-0,e-ICI Control Program,0797820032,Polly Karimi Miriti
+34906,janet kairemia mwenda,Mon Aug 07 2023 15:29:10 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,204614489-1,e-ICI Control Program,0717863221,Polly Karimi Miriti
+34875,MARY  MUTHONI,Mon Aug 07 2023 15:28:22 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,612066713-1,e-ICI Control Program,0747567069,Dennis  Mugambi
+34909,keshline makena miriti,Mon Aug 07 2023 15:27:30 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,192612712-5,e-ICI Control Program,0726352421,Polly Karimi Miriti
+34879,LYDIAH  KAJUJU,Mon Aug 07 2023 15:26:32 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,699826062-1,e-ICI Control Program,0741368354,Dennis  Mugambi
+34950,JULIETA  NGUTA,Mon Aug 07 2023 15:25:47 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,811092629-5,e-ICI Control Program,0706045800,Lisper  Makandi
+34942,Julia  Karambu,Mon Aug 07 2023 15:24:48 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,686940794-7,e-ICI Control Program,0727779187,Dennis  Mugambi
+34938,JUDITH  GAITI,Mon Aug 07 2023 15:23:42 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,144113213-9,e-ICI Control Program,0700547634,Lisper  Makandi
+34956,hydah kinya mbae,Mon Aug 07 2023 15:22:56 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,489413279-6,e-ICI Control Program,0795474233,Polly Karimi Miriti
+34944,ANN NKATHA KIROROMA,Mon Aug 07 2023 15:21:54 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,982396161-1,e-ICI Control Program,0727918209,Lisper  Makandi
+34948,MERCY  KANANU,Mon Aug 07 2023 15:20:18 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,017444367-1,e-ICI Control Program,0723840006,Lisper  Makandi
+34958,margret ngina njogu,Mon Aug 07 2023 15:19:27 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,086819173-5,e-ICI Control Program,0732541232,Polly Karimi Miriti
+29468,Margret gaiti igoki,Tue Jul 11 2023 10:49:32 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,696342268-5,e-ICI Control Program,07126172337,Kendi  Polly
+29009,Fridah Makena Joyce,Mon May 22 2023 16:31:05 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,616479448-6,EICI IThemba Program,0790157233,Bonface  Muchiri
+29130,Catherine Kaibacha Igweta,Mon May 22 2023 16:29:57 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,710372466-7,EICI IThemba Program,0716812400,Bonface  Muchiri
+29110,Grace Karuki Julias,Mon May 22 2023 16:25:35 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,236499390-3,EICI IThemba Program,0711377860,Bonface  Muchiri
+29151,Eunice Kanario Gitonga,Mon May 22 2023 16:20:47 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,199733647-2,EICI IThemba Program,0716493462,Bonface  Muchiri
+29160,Elizabeth Nkatha Mati,Mon May 22 2023 16:18:09 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,243077287-7,EICI IThemba Program,0701955715,Bonface  Muchiri
+29157,Eunice Karambu Ngore,Mon May 22 2023 16:15:06 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,364024860-9,EICI IThemba Program,0702336489,Bonface  Muchiri
+29150,Gladys Kananu Mwiti,Mon May 22 2023 16:07:21 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,682847898-9,e-ICI Control Program,0758214383,Bonface  Muchiri
+29142,Doris Karimi Festus,Mon May 22 2023 16:06:08 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,879934299-6,e-ICI Control Program,0797967391,Bonface  Muchiri
+29139,Joyce Ncororo Nyaga,Mon May 22 2023 16:05:10 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,122483196-4,e-ICI Control Program,0742877498,Bonface  Muchiri
+29155,Gladys Kaimenti Joses,Mon May 22 2023 16:00:14 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,420913290-3,e-ICI Control Program,0706078478,Bonface  Muchiri
+29180,Win Nkirote Ntoetangatha,Mon May 22 2023 15:56:39 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,709817478-7,EICI IThemba Program,0702296278,Bonface  Muchiri
+29205,Joyce Thirindi Katheru,Mon May 22 2023 15:40:41 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,679240408-6,EICI IThemba Program,0719285025,Bonface  Muchiri
+29198,Christine Kendi Baariu,Mon May 22 2023 15:37:14 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,421122947-3,EICI IThemba Program,0743527430,Bonface  Muchiri
+29208,Jackline kajuju Murerwa,Mon May 22 2023 15:35:52 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,129809371-5,e-ICI Control Program,0799046860,Bonface  Muchiri
+29201,Jane Thirindi Kinyua,Mon May 22 2023 15:34:29 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,881111147-8,e-ICI Control Program,0704839864,Bonface  Muchiri
+29176,Hellen Kagendo Munyua,Mon May 22 2023 15:33:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,626361014-6,e-ICI Control Program,0725230529,Bonface  Muchiri
+29624,Josphine Kagwiria Ngore,Mon May 22 2023 15:32:09 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,483266680-6,e-ICI Control Program,0706785611,Bonface  Muchiri
+28461,Agnes Kendi Mutura,Fri May 19 2023 17:44:39 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,222429336-1,e-ICI Control Program,0796522489,Bonface  Muchiri
+28558,Anita Kanana Mbae,Fri May 19 2023 17:43:19 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,104199813-7,e-ICI Control Program,0103761528,Bonface  Muchiri
+28590,JANE  KARAMBU,Fri May 19 2023 17:40:31 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,403790283-2,EICI IThemba Program,0708873655,Bonface  Muchiri
+28581,Fridah  Mwendwa,Fri May 19 2023 17:39:21 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,377072700-0,e-ICI Control Program,0742841225,Bonface  Muchiri
+28601,JANET KARIMI MURUNGI,Fri May 19 2023 17:38:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,726391398-5,e-ICI Control Program,0710407587,Bonface  Muchiri
+28662,ALICE KANANU MUYUMBI,Fri May 19 2023 17:33:18 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,649944208-2,EICI IThemba Program,0113624777,Bonface  Muchiri
+28659,FAITH KANANA KIRIMI,Fri May 19 2023 17:31:51 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,779293372-8,EICI IThemba Program,0710618687,Bonface  Muchiri
+28647,Joyce Nyoroka M'MUGAMBI,Fri May 19 2023 17:28:29 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,638242901-4,EICI IThemba Program,0723773642,Bonface  Muchiri
+28657,JUDY  MUTHONI,Fri May 19 2023 17:24:06 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,817949266-8,e-ICI Control Program,0706608430,Bonface  Muchiri
+28648,LUCY  KANANU,Fri May 19 2023 17:22:28 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,292371962-5,e-ICI Control Program,0705601128,Bonface  Muchiri
+28681,Fridah Kerito Joseph,Fri May 19 2023 17:17:20 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,891743066-5,EICI IThemba Program,0710270098,Bonface  Muchiri
+28710,BEATRICE MWARI MUNG'ATHIA,Fri May 19 2023 17:14:01 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,336739439-6,EICI IThemba Program,0725717195,Bonface  Muchiri
+28699,Doreen Karambu karimi,Fri May 19 2023 17:10:15 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,621968647-1,EICI IThemba Program,0708679998,Bonface  Muchiri
+28734,RUTH KAINDI MUTUA,Fri May 19 2023 17:04:16 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,690744729-3,EICI IThemba Program,0729341738,Bonface  Muchiri
+28735,MARGRET  KISENGA,Fri May 19 2023 17:02:45 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,964812106-0,e-ICI Control Program,0711371295,Bonface  Muchiri
+28752,JOANINAH  MUTHONI,Fri May 19 2023 17:01:24 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,717718008-5,EICI IThemba Program,0793010758,Bonface  Muchiri
+28742,RUTH  MWARI,Fri May 19 2023 16:58:04 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,067978402-5,e-ICI Control Program,0710192451,Bonface  Muchiri
+28794,LUCY  MUTHONI,Fri May 19 2023 16:56:33 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,316479881-5,e-ICI Control Program,0743570402,Bonface  Muchiri
+28930,Agnes karimi Mugambi,Fri May 19 2023 16:54:04 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,480804421-0,e-ICI Control Program,0746413168,Bonface  Muchiri
+29027,Joyce Kaari Kirianki,Fri May 19 2023 16:52:46 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,913709418-2,e-ICI Control Program,0712308643,Bonface  Muchiri
+29002,Dorothy Mwende Gerald,Fri May 19 2023 16:51:24 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,704174301-9,e-ICI Control Program,0798234480,Bonface  Muchiri
+28995,Makena Naomi Betrian,Fri May 19 2023 16:50:08 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,630743300-0,e-ICI Control Program,0790646118,Bonface  Muchiri
+29089,Purity Naitore Kairiama,Fri May 19 2023 16:48:38 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,381922348-2,EICI IThemba Program,0727130043,Bonface  Muchiri
+29084,Celina karimi Muthee,Fri May 19 2023 16:38:40 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,198617003-1,EICI IThemba Program,01441551370,Bonface  Muchiri
+29076,Tabitha Kalimbi Itulu,Fri May 19 2023 16:36:41 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,447964669-9,e-ICI Control Program,0719275124,Bonface  Muchiri
+29222,Rebecca  Mwathathi,Fri May 19 2023 16:33:42 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,779231283-2,EICI IThemba Program,0705948119,Bonface  Muchiri
+29219,LUCY Waitherero Mwaura,Fri May 19 2023 16:29:41 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,042790887-6,EICI IThemba Program,0702767468,Bonface  Muchiri
+29223,Lydia Wambui Wamuranga,Fri May 19 2023 16:28:07 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,812819773-1,e-ICI Control Program,0704609696,Bonface  Muchiri
+29215,Raton Makandi Makandi,Fri May 19 2023 16:26:50 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,608071086-3,e-ICI Control Program,0713348835,Bonface  Muchiri
+29276,JULIA GITARI UNGU,Fri May 19 2023 16:23:15 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,704382218-3,EICI IThemba Program,0705288904,Bonface  Muchiri
+29264,Esther Gatwiri Marete,Fri May 19 2023 16:17:39 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,994641362-3,EICI IThemba Program,0726582717,Bonface  Muchiri
+29334,Priscilla Nkatha Atanasio,Fri May 19 2023 16:12:55 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,449230871-5,EICI IThemba Program,0710588591,Bonface  Muchiri
+29196,Lucy Ncororo Gitonga,Fri May 19 2023 16:06:52 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,214791237-8,EICI IThemba Program,0742403810,Bonface  Muchiri
+29310,MERCY KENDI KITHINJI,Fri May 19 2023 16:05:35 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,294022967-3,EICI IThemba Program,0748814645,Bonface  Muchiri
+29319,ANASTACIA WAITHERA GICHANGA,Fri May 19 2023 16:00:31 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,431723606-7,e-ICI Control Program,0768431241,Bonface  Muchiri
+29287,Naomi Gakii Kobia,Fri May 19 2023 15:57:27 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,468161346-1,e-ICI Control Program,0724666592,Bonface  Muchiri
+29285,Lucy Kathure Isaiah,Fri May 19 2023 15:54:16 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,199127319-2,e-ICI Control Program,0702168260,Bonface  Muchiri
+29353,Mary Watiri Mwangi,Fri May 19 2023 15:52:15 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,044611764-0,EICI IThemba Program,0706371370,Bonface  Muchiri
+29361,Anjelica Muthoni Peter,Fri May 19 2023 15:40:26 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,271099938-0,EICI IThemba Program,0702388518,Bonface  Muchiri
+29358,Rebecca Ncororo Francis,Fri May 19 2023 15:38:08 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,177366932-8,EICI IThemba Program,0769058516,Bonface  Muchiri
+28499,Lucy  Makena,Thu May 18 2023 10:57:03 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,782202066-0,e-ICI Control Program,0710135815,Mukuba  Millicent
+28522,Mary  Kaari,Thu May 18 2023 10:48:18 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,838489683-6,EICI IThemba Program,0741922962,Mukuba  Millicent
+28545,Elizabeth Mumbua Sila,Thu May 18 2023 10:35:17 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,203810316-0,EICI IThemba Program,0710941645,Mukuba  Millicent
+28525,Mercy  Nkatha,Thu May 18 2023 09:17:48 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,096072710-5,EICI IThemba Program,0799920740,Mukuba  Millicent
+28607,Hellen Peter Atabu,Thu May 18 2023 09:10:17 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,389809820-1,EICI IThemba Program,0745783589,Mukuba  Millicent
+28602,Eveline Mwari Kabeere,Thu May 18 2023 09:03:08 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,714886691-1,e-ICI Control Program,0725081798,Mukuba  Millicent
+28650,Judy  Makena,Thu May 18 2023 09:02:02 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,198699410-9,e-ICI Control Program,0741772247,Mukuba  Millicent
+28628,Angelica Gakui Lingiri,Thu May 18 2023 09:00:49 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,126724647-6,e-ICI Control Program,0713998074,Mukuba  Millicent
+28689,Lucy Mwakaiga Chalse,Thu May 18 2023 08:59:31 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,422041902-4,e-ICI Control Program,0706148889,Mukuba  Millicent
+28722,Gladdys Muthoni Henry,Thu May 18 2023 08:51:14 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,999994249-4,EICI IThemba Program,0723832239,Mukuba  Millicent
+28720,Purity  Kendi,Thu May 18 2023 08:47:05 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,321780091-5,EICI IThemba Program,0741048589,Mukuba  Millicent
+28733,Catherine  Kendi,Thu May 18 2023 08:45:02 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,627712906-7,e-ICI Control Program,0757367903,Mukuba  Millicent
+28936,Joy  Ntinyari,Thu May 18 2023 08:43:41 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,684939861-2,e-ICI Control Program,0768638715,Mukuba  Millicent
+28909,Loise  Kathuure,Thu May 18 2023 08:41:55 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,664077924-2,e-ICI Control Program,0713076405,Mukuba  Millicent
+29079,Grace Kananu M'mugambi,Thu May 18 2023 08:27:44 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,641297222-3,e-ICI Control Program,0700897023,Mukuba  Millicent
+29125,Julia Makena Munjuri,Thu May 18 2023 08:19:13 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,772136930-9,EICI IThemba Program,0713554049,Mukuba  Millicent
+29145,Ann Makena Kaigera,Thu May 18 2023 08:11:54 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,874176716-7,EICI IThemba Program,0759117831,Mukuba  Millicent
+29173,Jane Kanana Peter,Thu May 18 2023 08:01:33 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,111778609-3,EICI IThemba Program,0745344517,Mukuba  Millicent
+29358,Rebecca Ncororo Francis,Wed May 17 2023 15:40:43 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,177366932-8,EICI IThemba Program,0769058516,Bonface  Muchiri
+29425,Susan Kawira Muriira,Wed May 17 2023 15:30:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,073303002-7,EICI IThemba Program,0799252940,Bonface  Muchiri
+29444,Lucy Kathure Mutwiri,Wed May 17 2023 15:26:24 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,347881869-7,EICI IThemba Program,0701425185,Bonface  Muchiri
+29432,Martha Kambura Ntongondu,Wed May 17 2023 15:09:35 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,913606303-0,e-ICI Control Program,0719278280,Bonface  Muchiri
+28739,FRIDAH  KINYA,Wed May 17 2023 15:08:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,190413944-9,e-ICI Control Program,0769308515,Bonface  Muchiri
+29436,Irene Kaimuri Mutuma,Wed May 17 2023 15:06:46 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,261427499-7,e-ICI Control Program,0707835658,Bonface  Muchiri
+29423,Beatrice Muthoni Koome,Wed May 17 2023 15:02:53 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,190102676-3,e-ICI Control Program,0799674702,Bonface  Muchiri
+29194,Lilian  Kanario,Tue May 16 2023 16:37:07 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,991438289-1,e-ICI Control Program,0714882915,Mukuba  Millicent
+29227,Lucy Kanya Mwirichia,Tue May 16 2023 16:35:26 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,276297398-6,e-ICI Control Program,0712634232,Mukuba  Millicent
+29251,Ansieta  Maithekia,Tue May 16 2023 16:29:32 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,670267917-3,EICI IThemba Program,0714008912,Mukuba  Millicent
+29261,Jane Muiti Thuranira,Tue May 16 2023 16:23:24 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,677122176-6,e-ICI Control Program,0742043590,Mukuba  Millicent
+29338,Rose Thirindi Mungathia,Tue May 16 2023 16:20:07 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,761271430-8,e-ICI Control Program,0735349476,Mukuba  Millicent
+29332,Lucy Nkatha Mwenda,Tue May 16 2023 16:18:43 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,960338336-6,e-ICI Control Program,0726656419,Mukuba  Millicent
+29362,Lucy  Kalan'i,Tue May 16 2023 16:14:59 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,418308638-0,EICI IThemba Program,0746908976,Mukuba  Millicent
+29371,Elizabeth Gatwiri Ntongai,Tue May 16 2023 16:12:31 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,024809079-7,e-ICI Control Program,0757232978,Mukuba  Millicent
+29030,Grace  Kailu,Tue May 16 2023 16:11:16 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,367702237-2,e-ICI Control Program,0702888383,Mukuba  Millicent
+29431,Angelica  Nchulubi,Tue May 16 2023 15:55:00 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,277119099-4,EICI IThemba Program,0726826897,Mukuba  Millicent
+29447,Nunzia  Gatuuria,Tue May 16 2023 15:50:43 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,098378121-2,EICI IThemba Program,0721978740,Mukuba  Millicent
+29463,Mary  Kendi,Tue May 16 2023 15:49:10 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,399206976-9,e-ICI Control Program,0728236640,Mukuba  Millicent
+29458,Sabera  Nkatha,Tue May 16 2023 15:47:43 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,860803767-0,e-ICI Control Program,0713275264,Mukuba  Millicent
+29452,Mercy Nkirote Kiaira,Tue May 16 2023 15:46:14 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,634247033-0,e-ICI Control Program,0713925054,Mukuba  Millicent
+29450,Martha  Mwonjiru,Tue May 16 2023 15:44:30 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,009164788-3,e-ICI Control Program,0725110922,Mukuba  Millicent
+29449,Ireen  Mukiri,Tue May 16 2023 15:42:50 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,998982441-3,e-ICI Control Program,0794619911,Mukuba  Millicent
+29445,Doreen  Kawiria,Tue May 16 2023 15:41:00 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,807234392-7,e-ICI Control Program,0746206320,Mukuba  Millicent
+29414,Mercy Kanario Mururu,Tue May 16 2023 15:39:19 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,879278894-8,e-ICI Control Program,0721323013,Mukuba  Millicent
+29446,Josphine  Kaari,Tue May 16 2023 15:30:20 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,608728076-1,EICI IThemba Program,0713767595,Mukuba  Millicent
+29456,Mercy  kinya,Tue May 16 2023 15:24:19 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,440206034-9,EICI IThemba Program,0711530483,Mukuba  Millicent
+29533,Seberina Kaimuri Kaidigo,Tue May 16 2023 14:00:46 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,191767199-0,e-ICI Control Program,0743068177,Mukuba  Millicent
+29488,Martha  Nyoroka,Tue May 16 2023 13:45:50 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,993361096-7,e-ICI Control Program,0710255239,Mukuba  Millicent
+29527,Teresina  Nambui,Tue May 16 2023 13:39:07 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,189410779-4,EICI IThemba Program,0722846619,Mukuba  Millicent
+29517,Gladys  Karea,Tue May 16 2023 12:43:27 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,009189028-5,EICI IThemba Program,0721143124,Mukuba  Millicent
+29516,Caroline  Gaichiumia,Tue May 16 2023 12:38:52 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,498243700-8,EICI IThemba Program,0724522801,Mukuba  Millicent
+29568,Faustin  Makena,Tue May 16 2023 12:36:00 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,392413892-2,e-ICI Control Program,0704935515,Mukuba  Millicent
+29597,rabecca  mwambuya,Tue May 16 2023 12:33:33 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,874228433-7,e-ICI Control Program,0701892311,Mukuba  Millicent
+29596,Sacinta  Kanai,Tue May 16 2023 12:31:45 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,860121439-1,e-ICI Control Program,0790287360,Mukuba  Millicent
+29590,Angelica  nkatha,Tue May 16 2023 12:30:19 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,463896277-1,e-ICI Control Program,0711243078,Mukuba  Millicent
+29491,Grace  Karei,Tue May 16 2023 12:12:35 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,462470809-7,EICI IThemba Program,0710190845,Mukuba  Millicent
+29648,Gladdys  kathuure,Tue May 16 2023 12:11:12 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,622072434-5,e-ICI Control Program,0795106756,Mukuba  Millicent
+29629,juliana kaburo kaibunga,Tue May 16 2023 12:09:44 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,148918100-6,e-ICI Control Program,0727329749,Mukuba  Millicent
+29679,sabina  nkatha,Tue May 16 2023 12:03:41 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,181869238-4,EICI IThemba Program,0115750416,Mukuba  Millicent
+29668,rose  karimi,Tue May 16 2023 12:00:09 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,423236479-6,EICI IThemba Program,0727646944,Mukuba  Millicent
+29739,Geniffer Thairora kabakua,Tue May 16 2023 11:51:10 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,276674670-1,EICI IThemba Program,0114344257,Mukuba  Millicent
+29765,Catherine  Kawiria,Tue May 16 2023 11:47:39 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,819049006-3,EICI IThemba Program,0716808717,Mukuba  Millicent
+29804,faith  kathuure,Tue May 16 2023 11:45:55 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,474002913-9,EICI IThemba Program,0710124482,Mukuba  Millicent
+29796,jacinta  karimi,Tue May 16 2023 11:31:57 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,926928221-7,EICI IThemba Program,0728988324,Mukuba  Millicent
+29807,dominica  nkirote,Mon May 15 2023 13:00:33 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,632686849-1,e-ICI Control Program,0710124482,Mukuba  Millicent
+29870,Ann Kibutha Mwathimba,Mon May 15 2023 11:04:21 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,991840867-6,e-ICI Control Program,0728486075,Bonface  Muchiri
+29848,Joyce Mwanjiru Kaberia,Mon May 15 2023 11:03:36 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,416261699-1,e-ICI Control Program,0797683895,Bonface  Muchiri
+29869,JANE MAITI NTOIMARIA,Mon May 15 2023 11:02:28 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,832863663-7,e-ICI Control Program,0710730683,Bonface  Muchiri
+30012,Hilda Kaimenyi Muthaura,Mon May 15 2023 11:01:29 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,437418719-5,e-ICI Control Program,0729086212,Bonface  Muchiri
+30038,Dorcas Gatwiri Gitonga,Mon May 15 2023 10:55:44 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,262690824-4,EICI IThemba Program,0710432378,Bonface  Muchiri
+30035,Monica kananu Jacob,Mon May 15 2023 10:49:56 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,797444722-4,EICI IThemba Program,0703957233,Bonface  Muchiri
+30033,JENIFER KATHAMBI MICHUBU,Mon May 15 2023 10:45:07 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,279487437-6,EICI IThemba Program,0706653131,Bonface  Muchiri
+29799,mary  kawiria,Mon May 15 2023 10:01:08 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,024729441-6,e-ICI Control Program,0729332128,Mukuba  Millicent
+29204,Jerusha  Kailimbi,Mon May 15 2023 09:54:06 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,376644188-9,e-ICI Control Program,0799263865,Mukuba  Millicent
+29459,christine kariru mutua,Mon May 15 2023 09:46:53 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,643236721-4,EICI IThemba Program,0700021248,Mukuba  Millicent
+29585,Grace  Maami,Mon May 15 2023 09:40:35 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,013448681-0,EICI IThemba Program,0704519890,Mukuba  Millicent
+29575,Agness  kabirithu,Mon May 15 2023 09:20:13 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,306894741-9,EICI IThemba Program,0792443136,Mukuba  Millicent
+29621,Fridah  kaaniru,Mon May 15 2023 09:16:09 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,989229980-2,EICI IThemba Program,0703542822,Mukuba  Millicent
+29768,dominica  kanayuu,Mon May 15 2023 09:06:42 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,829972739-9,e-ICI Control Program,0745426717,Mukuba  Millicent
+29811,caroline  kathuure,Mon May 15 2023 09:02:07 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,926890823-4,EICI IThemba Program,0727788015,Mukuba  Millicent
+30055,Irene Kagendo Mwiti,Fri May 12 2023 16:24:03 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,782170068-4,e-ICI Control Program,0711778325,Bonface  Muchiri
+30050,Sabera Kaimuri John,Fri May 12 2023 16:22:17 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,994269093-5,e-ICI Control Program,0708483035,Bonface  Muchiri
+30115,Mwanjaro Agnes Kirema,Fri May 12 2023 16:14:58 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,283627792-7,EICI IThemba Program,0716036314,Bonface  Muchiri
+30104,Mary Muthoni Gikundi,Fri May 12 2023 16:12:49 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,661107833-5,e-ICI Control Program,0700061277,Bonface  Muchiri
+29722,Glory Kanario Mutwiri,Fri May 12 2023 16:10:00 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,737862716-5,e-ICI Control Program,0719254448,Bonface  Muchiri
+29806,Alice Muthoni Njeru,Fri May 12 2023 16:05:07 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,108178313-4,EICI IThemba Program,0725828609,Bonface  Muchiri
+30038,Dorcas Gatwiri Gitonga,Fri May 12 2023 15:47:08 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,262690824-4,EICI IThemba Program,0710432378,Bonface  Muchiri
+29725,Esther Mwathwana Mutiga,Fri May 12 2023 15:44:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,039212600-9,e-ICI Control Program,0729085245,Lewis  Kigunda
+29802,Florah Kawira Nabea,Fri May 12 2023 15:35:04 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,447016261-3,EICI IThemba Program,0790609398,Bonface  Muchiri
+29822,Rose Ncabani Ntonjira,Fri May 12 2023 15:29:14 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,410480690-8,EICI IThemba Program,0790719995,Bonface  Muchiri
+28625,Lydia Mwari Gikunda,Fri May 12 2023 12:53:46 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,494079069-6,e-ICI Control Program,0701597555,Lewis  Kigunda
+29785,lyndia  kairithia,Fri May 12 2023 10:36:42 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,194409698-9,EICI IThemba Program,0712009263,Mukuba  Millicent
+30002,lucy  karambu,Fri May 12 2023 09:26:34 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,466689929-1,EICI IThemba Program,0720176443,Mukuba  Millicent
+29993,Janet  Mukokinya,Fri May 12 2023 09:25:02 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,980167431-9,e-ICI Control Program,0714979521,Mukuba  Millicent
+30028,Magdalene  Gacheke,Fri May 12 2023 09:17:39 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,172847129-1,EICI IThemba Program,0727748577,Mukuba  Millicent
+30043,Esther  Gacheri,Fri May 12 2023 09:12:05 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,082894674-9,EICI IThemba Program,0737047995,Mukuba  Millicent
+30054,Mary  Wanjiru,Fri May 12 2023 09:10:01 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,312800067-0,EICI IThemba Program,07216004653,Mukuba  Millicent
+30073,lindia  gakii,Fri May 12 2023 09:00:32 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,401049001-1,EICI IThemba Program,0728168582,Mukuba  Millicent
+28649,purity  kagendo,Tue May 09 2023 15:29:31 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,909430087-9,EICI IThemba Program,0727726402,Kendi  Polly
+28646,jesca maigene kirigia,Tue May 09 2023 15:24:07 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,286732084-4,EICI IThemba Program,0710104384,Kendi  Polly
+28645,judith k karoki,Tue May 09 2023 15:14:56 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,119222370-7,EICI IThemba Program,0716402311,Kendi  Polly
+28687,Sarafina Nduru M'inoti,Tue May 09 2023 15:08:28 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,488413728-4,EICI IThemba Program,0716578225,Kendi  Polly
+28726,Monica Muthoni M'miriti,Tue May 09 2023 15:02:53 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,409899087-4,EICI IThemba Program,0721140972,Kendi  Polly
+28848,stella nkatha john,Tue May 09 2023 14:57:05 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,032899086-6,EICI IThemba Program,0792160288,Kendi  Polly
+28933,petronila kawira mutembei,Tue May 09 2023 14:46:30 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,732196176-0,EICI IThemba Program,0711954547,Kendi  Polly
+28943,lilian gatabi mutugi,Tue May 09 2023 14:40:47 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,103489363-4,e-ICI Control Program,0728107099,Kendi  Polly
+28928,faith kinya mbogori,Tue May 09 2023 14:39:19 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,449146069-9,e-ICI Control Program,0718443730,Kendi  Polly
+29031,PURITY MUTHONI KIRIMI,Tue May 09 2023 14:35:00 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,186673212-4,EICI IThemba Program,0721981900,Kendi  Polly
+29006,catherine kawira aron,Tue May 09 2023 14:30:48 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,014370237-1,EICI IThemba Program,0728712819,Kendi  Polly
+29087,caroline riungu riungu,Tue May 09 2023 14:25:50 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,271810262-3,EICI IThemba Program,0715890929,Kendi  Polly
+29071,REGINA KIENDE KIRIMA,Tue May 09 2023 14:20:56 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,067839769-6,EICI IThemba Program,0716204492,Kendi  Polly
+29159,mercy nkatha kaaria,Tue May 09 2023 13:23:19 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,446379189-9,EICI IThemba Program,0703517761,Kendi  Polly
+29195,Evangeline kanyamu m'murithi,Tue May 09 2023 13:18:54 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,226776904-6,EICI IThemba Program,0710664115,Kendi  Polly
+29197,Jemimah ntue livingston,Tue May 09 2023 13:17:18 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,043071831-2,e-ICI Control Program,0718463142,Kendi  Polly
+29191,monica kagwiria kaburu,Tue May 09 2023 13:15:41 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,032942386-7,e-ICI Control Program,0726998832,Kendi  Polly
+29190,Agnes kambura kirimi,Tue May 09 2023 13:13:44 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,672633877-2,e-ICI Control Program,0721382350,Kendi  Polly
+29202,Virginia thiori robert,Tue May 09 2023 13:12:01 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,022681026-5,e-ICI Control Program,0703288096,Kendi  Polly
+29200,Jane kajira elias,Tue May 09 2023 13:00:46 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,132873173-0,e-ICI Control Program,0719531785,Kendi  Polly
+29185,Beatrice kajuju kiaira,Tue May 09 2023 12:59:38 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,608429609-1,e-ICI Control Program,0712426031,Kendi  Polly
+29232,silvia mucece kirimi,Tue May 09 2023 12:52:59 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,122222101-0,EICI IThemba Program,0763799443,Kendi  Polly
+29269,Joy mugure kiambi,Tue May 09 2023 12:47:50 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,184438947-6,EICI IThemba Program,0785412153,Kendi  Polly
+29265,faith gatakaa kimathi,Tue May 09 2023 12:41:28 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,496468031-0,EICI IThemba Program,0719524840,Kendi  Polly
+29272,Marieta kiario Thuranira,Tue May 09 2023 12:39:43 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,946314847-9,e-ICI Control Program,0702875652,Kendi  Polly
+29318,Nancy Muthoni gitonga,Tue May 09 2023 12:34:51 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,371743109-6,e-ICI Control Program,0727991279,Kendi  Polly
+29379,jacinta  karimi,Tue May 09 2023 12:29:02 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,371263732-5,EICI IThemba Program,0727738337,Kendi  Polly
+29378,Dinah kawira mbaabu,Tue May 09 2023 12:23:46 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,681620034-6,EICI IThemba Program,0742081133,Kendi  Polly
+29374,irene kinaqnu geofry,Tue May 09 2023 12:18:10 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,868960106-3,EICI IThemba Program,0713638739,Kendi  Polly
+29381,jerusha kinya muthuri,Tue May 09 2023 11:59:02 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,339417917-4,e-ICI Control Program,0706167913,Kendi  Polly
+29375,mercy kagendo kimathi,Tue May 09 2023 11:56:25 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,101211467-2,e-ICI Control Program,0710669162,Kendi  Polly
+29951,dianah kaimuri gitonga,Tue May 09 2023 11:29:04 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,696300892-2,EICI IThemba Program,0701740352,Kendi  Polly
+30010,rose karambu gikunda,Tue May 09 2023 11:17:12 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,727868009-0,EICI IThemba Program,0722603323,Kendi  Polly
+30001,lydia kiende marangu,Tue May 09 2023 11:12:31 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,726448789-8,EICI IThemba Program,0721212434,Kendi  Polly
+29989,stella kinanu kirimi,Tue May 09 2023 11:08:36 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,612911306-1,EICI IThemba Program,0722992989,Kendi  Polly
+30009,margret nyoroka kiambi,Tue May 09 2023 11:03:47 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,662767401-0,EICI IThemba Program,0716494916,Kendi  Polly
+28870,Julia Kawira Ombuku,Tue May 09 2023 10:57:26 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,610147809-4,e-ICI Control Program,0769236992,Lewis  Kigunda
+30005,alice ngugi ngugi,Tue May 09 2023 10:56:59 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,978199077-6,EICI IThemba Program,0725705489,Kendi  Polly
+30003,golden gatwiri njuki,Tue May 09 2023 10:52:04 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,002127429-5,EICI IThemba Program,0712137253,Kendi  Polly
+29948,caroline gaichugi riara,Tue May 09 2023 10:50:36 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,071637396-4,e-ICI Control Program,0713088197,Kendi  Polly
+29946,juster gatwiri murimi,Tue May 09 2023 10:49:19 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,994899743-3,e-ICI Control Program,0115519598,Kendi  Polly
+30014,HARRIET  MUKWARO,Tue May 09 2023 10:47:39 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,314802689-5,e-ICI Control Program,0114547874,Kendi  Polly
+30013,CHARITY KATHARE MUTISO,Tue May 09 2023 10:46:00 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,641116679-3,e-ICI Control Program,0723337514,Kendi  Polly
+30011,beatrice makena buuri,Tue May 09 2023 10:42:57 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,810810292-5,e-ICI Control Program,0712762818,Kendi  Polly
+30000,jane kagwiria kanata,Tue May 09 2023 10:41:36 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,093826302-7,e-ICI Control Program,0757539305,Kendi  Polly
+30064,hellen naito muthuri,Tue May 09 2023 10:40:21 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,772206322-4,e-ICI Control Program,0714560064,Kendi  Polly
+30105,susan  onyango,Tue May 09 2023 10:39:14 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,691496416-5,e-ICI Control Program,0722439657,Kendi  Polly
+29782,nancy kathambi muthuri,Tue May 09 2023 10:37:09 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,902973910-0,e-ICI Control Program,0716813284,Kendi  Polly
+29805,glory kendi gichuru,Tue May 09 2023 10:35:58 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,087837281-2,e-ICI Control Program,0724989218,Kendi  Polly
+29794,BESSY MAKENA MURIUNGI,Tue May 09 2023 10:34:22 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,633291829-8,e-ICI Control Program,0742478969,Kendi  Polly
+29791,NAOMI KENDI KINYUA,Tue May 09 2023 10:32:53 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,432992034-4,e-ICI Control Program,0718459933,Kendi  Polly
+29789,DINAH MARINGA KIRIMI,Mon May 08 2023 15:32:16 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,278392701-1,EICI IThemba Program,0721669673,Kendi  Polly
+29773,angelica kinanu itonga,Mon May 08 2023 15:25:43 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,061914828-1,EICI IThemba Program,0728725563,Kendi  Polly
+29772,OLYMPIA KAGENDO JOTHAM,Mon May 08 2023 14:49:25 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,794733648-8,EICI IThemba Program,0720177872,Kendi  Polly
+29779,ileen muthoni kamundi,Mon May 08 2023 14:41:18 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,301731789-6,EICI IThemba Program,0722992066,Kendi  Polly
+29774,virginia miriko patrick,Mon May 08 2023 14:35:08 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,989748834-3,EICI IThemba Program,0710432104,Kendi  Polly
+29800,ruth njoki kinoti,Mon May 08 2023 14:31:46 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,736793139-6,e-ICI Control Program,0705033982,Kendi  Polly
+29831,charity gatuura mwamba,Mon May 08 2023 14:22:37 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,906210323-0,EICI IThemba Program,0714073508,Kendi  Polly
+29826,Fine Karambu Mwongera,Mon May 08 2023 12:36:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,762179884-7,e-ICI Control Program,0791178402,Bonface  Muchiri
+30049,Judy Muthoni Ikanatha,Mon May 08 2023 10:39:31 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,491168183-3,EICI IThemba Program,0726352646,Bonface  Muchiri
+29870,Ann Kibutha Mwathimba,Thu May 04 2023 13:52:45 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,991840867-6,e-ICI Control Program,0728486075,Bonface  Muchiri
+29848,Joyce Mwanjiru Kaberia,Thu May 04 2023 13:46:56 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,416261699-1,e-ICI Control Program,0797683895,Bonface  Muchiri
+29869,JANE MAITI NTOIMARIA,Thu May 04 2023 13:42:02 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,832863663-7,e-ICI Control Program,0710730683,Bonface  Muchiri
+30012,Hilda Kaimenyi Muthaura,Thu May 04 2023 13:32:22 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,437418719-5,e-ICI Control Program,0729086212,Bonface  Muchiri
+30022,Sarah Kananu Ithanya,Thu May 04 2023 13:11:28 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,273073443-7,e-ICI Control Program,0706203081,Bonface  Muchiri
+30055,Irene Kagendo Mwiti,Thu May 04 2023 11:15:12 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,782170068-4,e-ICI Control Program,0711778325,Bonface  Muchiri
+30050,Sabera Kaimuri John,Thu May 04 2023 11:08:37 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,994269093-5,e-ICI Control Program,0708483035,Bonface  Muchiri
+29725,Esther Mwathwana Mutiga,Thu May 04 2023 10:37:14 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,039212600-9,e-ICI Control Program,0729085245,Lewis  Kigunda
+29812,Monica Kajuju Mubwika,Thu May 04 2023 09:44:59 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,882199181-0,e-ICI Control Program,0725387142,Bonface  Muchiri
+29826,Fine Karambu Mwongera,Thu May 04 2023 09:35:12 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,762179884-7,e-ICI Control Program,0791178402,Bonface  Muchiri
+29436,Irene Kaimuri Mutuma,Wed Apr 19 2023 13:40:00 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,261427499-7,e-ICI Control Program,0707835658,Bonface  Muchiri
+29423,Beatrice Muthoni Koome,Wed Apr 19 2023 13:34:40 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,190102676-3,e-ICI Control Program,0799674702,Bonface  Muchiri
+29483,Arester  kiende,Tue Apr 18 2023 10:44:55 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,110881808-7,e-ICI Control Program,0710646730,Kendi  Polly
+29520,Dinah Kagwiria mwandiki,Tue Apr 18 2023 10:43:05 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,640362447-8,e-ICI Control Program,0721305751,Kendi  Polly
+29518,Charity Tiridi Musili,Tue Apr 18 2023 10:41:05 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,897912104-6,e-ICI Control Program,0703888702,Kendi  Polly
+29508,Regina igoki kiambi,Tue Apr 18 2023 10:39:10 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,382799100-5,e-ICI Control Program,0718066993,Kendi  Polly
+29531,Betty kinanu muthuri,Tue Apr 18 2023 10:19:03 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,863284494-3,e-ICI Control Program,0724682396,Kendi  Polly
+29530,Joy kinya mbae,Tue Apr 18 2023 10:17:02 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,920184647-5,e-ICI Control Program,0704720976,Kendi  Polly
+29524,lucy nkirote mbaabu,Tue Apr 18 2023 10:13:39 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,216667604-5,e-ICI Control Program,0737612887,Kendi  Polly
+28421,Norah  Kinya,Mon Apr 17 2023 16:06:40 GMT+0300 (East Africa Time),44,pregnancy,Meru County,Meru County Referral Hospital,393461692-5,e-ICI Control Program,0745091519,Lewis  Kigunda
+29396,Lucy Wangari Kinyua,Mon Apr 17 2023 12:48:03 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,370019727-4,e-ICI Control Program,0708757799,Lewis  Kigunda
+29131,Agata Kaiganania Murangiri,Mon Apr 17 2023 12:45:10 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,398780416-2,e-ICI Control Program,0705346489,Lewis  Kigunda
+29577,Lucy Mpinda Kigunda,Mon Apr 17 2023 11:55:23 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,340316006-6,e-ICI Control Program,0721413176,Lewis  Kigunda
+29605,faith nkatha kigunda,Mon Apr 17 2023 11:52:45 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,201366708-0,e-ICI Control Program,0114190981,Stella  Makandi
+29272,Marieta kiario Thuranira,Fri Apr 14 2023 16:01:27 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,946314847-9,e-ICI Control Program,0702875652,Kendi  Polly
+29318,Nancy Muthoni gitonga,Fri Apr 14 2023 15:59:08 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,371743109-6,e-ICI Control Program,0727991279,Kendi  Polly
+29379,jacinta  karimi,Fri Apr 14 2023 15:50:14 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,371263732-5,EICI IThemba Program,0727738337,Kendi  Polly
+29378,Dinah kawira mbaabu,Fri Apr 14 2023 15:42:43 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,681620034-6,EICI IThemba Program,0742081133,Kendi  Polly
+29374,irene kinaqnu geofry,Fri Apr 14 2023 14:56:06 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,868960106-3,EICI IThemba Program,0713638739,Kendi  Polly
+29373,mary jumwa gerald,Fri Apr 14 2023 13:49:32 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,687336414-2,EICI IThemba Program,0701546191,Kendi  Polly
+25251,Sabera Kagwiria Ntongai,Thu Apr 06 2023 17:04:14 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,307216886-1,EICI IThemba Program,0707769183,Denis  Munene
+25245,Beatrice Mwonjeru Peter,Thu Apr 06 2023 16:46:12 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,062411336-1,EICI IThemba Program,0716550057,Denis  Munene
+25238,Catherine Karimi Gitonga,Thu Apr 06 2023 16:43:08 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,822274002-2,EICI IThemba Program,0726051056,Denis  Munene
+25232,Agnes Thairura Lawrence,Thu Apr 06 2023 16:28:24 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,710010403-8,EICI IThemba Program,0712372703,Denis  Munene
+25228,Julia Kagwiria Alison,Thu Apr 06 2023 16:25:20 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,744276448-1,EICI IThemba Program,0798370740,Denis  Munene
+25222,Susan Makena Mungathia,Thu Apr 06 2023 16:22:02 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,232484176-2,EICI IThemba Program,0717906899,Denis  Munene
+25210,Mary Kathure Nathan,Thu Apr 06 2023 14:18:57 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,640926634-0,EICI IThemba Program,0101717464,Denis  Munene
+25202,Sarah Kawira Alex,Thu Apr 06 2023 14:14:01 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,827629890-1,EICI IThemba Program,0723394260,Denis  Munene
+25194,MERCY KINYA MUGAMBI,Thu Apr 06 2023 14:07:28 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,404187622-0,EICI IThemba Program,0711530483,Linda  Githinji
+25191,Ancieta Mwathathi Kaindia,Thu Apr 06 2023 14:06:11 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,218132698-0,EICI IThemba Program,0725725294,Denis  Munene
+25172,Peninah Mwonjiru Mwereri,Wed Apr 05 2023 15:58:09 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,702872962-7,EICI IThemba Program,0716671429,Denis  Munene
+25167,Florah Thiangiki Peter,Wed Apr 05 2023 15:50:09 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,713691383-2,EICI IThemba Program,0786133814,Denis  Munene
+25165,Maricela Nkoyai Fredrick,Wed Apr 05 2023 15:40:16 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,100842846-6,EICI IThemba Program,0723010756,Denis  Munene
+25156,Ann Kajuju Kareria,Wed Apr 05 2023 15:33:36 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,748176148-9,EICI IThemba Program,0712128136,Denis  Munene
+24107,CONSOLATA KAMBURA CHARLES,Wed Apr 05 2023 15:27:49 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,983689930-3,EICI IThemba Program,0725600024,Linda  Githinji
+24106,MARY Mitheu MWATHATHI,Wed Apr 05 2023 15:22:22 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,223211191-0,EICI IThemba Program,07132381892,Kenneth  Kimathi
+24104,ESTHER MUKOMWA MWETERI,Wed Apr 05 2023 15:19:56 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,221728193-6,EICI IThemba Program,0720249834,Lucy  Kanorio
+24396,Carolyne Wairimu Kanyi,Wed Apr 05 2023 15:02:04 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,991796412-5,e-ICI Control Program,0723654918,Denis  Munene
+24229,Esther  Karimi,Wed Apr 05 2023 14:34:46 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,784194940-2,e-ICI Control Program,0720317491,Fransisca  Ncebere
+25851,Faith Mwendwa Mitu,Wed Mar 29 2023 12:06:18 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,438420462-6,e-ICI Control Program,0743050304,Denis  Munene
+25840,gladys kathure murungi,Wed Mar 29 2023 11:55:07 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,704233812-4,EICI IThemba Program,0715244957,Domitilla Mwari Maore
+25835,joyce kendi itabari,Wed Mar 29 2023 11:49:17 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,084786604-3,EICI IThemba Program,0726543065,Denis  Munene
+25827,Evangeline Muthoni M'ikiao,Wed Mar 29 2023 11:41:32 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,720700332-3,e-ICI Control Program,0707542371,Denis  Munene
+25814,Kendi Peninah Mungania,Wed Mar 29 2023 11:27:59 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,630309364-2,e-ICI Control Program,0729966355,Denis  Munene
+25811,MARGARET Nkirote Karithi,Wed Mar 29 2023 11:21:54 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,417372066-7,EICI IThemba Program,0710103184,Denis  Munene
+25808,RUTH Mukokinya Murungi,Wed Mar 29 2023 11:11:52 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,060803121-7,EICI IThemba Program,0713539703,Denis  Munene
+25804,SUSSY KAARI NTONJA,Wed Mar 29 2023 11:10:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,478303333-7,e-ICI Control Program,0729900581,Denis  Munene
+25803,stellamaris kageni Rwigi,Wed Mar 29 2023 11:09:15 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,004220407-3,e-ICI Control Program,0740694885,stella kageni mwongera
+25802,Roseline Kendi Kabiringu,Wed Mar 29 2023 11:07:30 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,321981970-7,e-ICI Control Program,0799859041,Denis  Munene
+25792,Modester Kerubo Obonyo,Wed Mar 29 2023 10:47:09 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,702447819-5,EICI IThemba Program,0712172194,Denis  Munene
+25786,Lilian Gatwiri M'eruri,Wed Mar 29 2023 10:32:02 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,677782034-8,e-ICI Control Program,0748292139,Denis  Munene
+25778,jenifer nyaguthi impwi,Wed Mar 29 2023 10:22:48 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,096326226-6,EICI IThemba Program,0710706810,Domitilla Mwari Maore
+25777,LUCY KANARIO M'KUNGANIA,Wed Mar 29 2023 10:20:05 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,603634163-1,e-ICI Control Program,0728642434,Denis  Munene
+26182,Harriet Kathure Kirimi,Tue Mar 28 2023 15:48:31 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,129633067-1,EICI IThemba Program,0703701300,Denis  Munene
+26123,Dorothy Karambu nteere,Tue Mar 28 2023 15:35:59 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,161131774-2,EICI IThemba Program,0711566870,Denis  Munene
+26059,Doris Naitore Mwenda,Tue Mar 28 2023 15:23:37 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,381639287-6,EICI IThemba Program,0703464048,Denis  Munene
+26057,Joyce Karimi Murithi,Tue Mar 28 2023 15:17:42 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,137230097-8,EICI IThemba Program,0727990843,Denis  Munene
+26049,Mercy NKIROTE KIRIMI,Tue Mar 28 2023 15:05:06 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,770379060-5,EICI IThemba Program,0719563910,Denis  Munene
+26042,Gladys Mwari Anampiu,Tue Mar 28 2023 14:45:19 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,671426937-7,EICI IThemba Program,0726448665,Denis  Munene
+26027,REBECCA NKATHA NKAMATI,Tue Mar 28 2023 14:33:12 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,107043077-0,EICI IThemba Program,0720572544,Denis  Munene
+26007,LYDIA KARIMI KANGENTU,Tue Mar 28 2023 14:30:24 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,432986842-8,EICI IThemba Program,0724232675,Denis  Munene
+26003,Nancy Kaimuri Ikiugu,Tue Mar 28 2023 13:34:45 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,990982790-0,EICI IThemba Program,0725041961,Denis  Munene
+25998,Evaline Ntinyari Kirimi,Tue Mar 28 2023 13:25:39 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,840800412-8,EICI IThemba Program,0716160150,Denis  Munene
+25991,vyonne kagendo albert,Tue Mar 28 2023 13:24:38 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,304203908-5,EICI IThemba Program,0713811951,Domitilla Mwari Maore
+25977,Hellen Kabirithu Mururu,Tue Mar 28 2023 12:38:35 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,790994142-4,EICI IThemba Program,0729172224,Denis  Munene
+25946,PURITY KARAMUTA KIRIMI,Tue Mar 28 2023 12:28:38 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,814818123-6,EICI IThemba Program,0711700959,Denis  Munene
+25907,Lilian Kagwiria Muriithi,Tue Mar 28 2023 12:17:37 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,780309249-8,EICI IThemba Program,0727736948,Denis  Munene
+24103,lucia kagwiria munyaka,Mon Mar 27 2023 08:59:01 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,809488471-8,EICI IThemba Program,0729043019,Nancy  Kathambi
+24100,JUDITH NKIROTE MANYARA,Mon Mar 27 2023 08:40:43 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,608807707-5,EICI IThemba Program,0702066581,Kenneth  Kimathi
+25865,LYDIA  GACEKE,Sun Mar 26 2023 20:40:02 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,311877236-1,e-ICI Control Program,0726081906,Edwin  Odoyo
+25564,Mickline Inokobia Charles,Sun Mar 26 2023 20:38:41 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,179828093-7,e-ICI Control Program,0723901257,stella kageni mwongera
+25551,collet loina kobia,Sun Mar 26 2023 20:37:26 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,784869073-6,e-ICI Control Program,0110595638,Domitilla Mwari Maore
+25548,SABERA NDUNE MURIUKI,Sun Mar 26 2023 20:35:27 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,669317462-2,e-ICI Control Program,0701768027,Denis  Munene
+25527,Jerusha Kanario Mucheke,Sun Mar 26 2023 20:34:13 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,187696324-8,e-ICI Control Program,0769046092,stella kageni mwongera
+25523,Hellen Gaichiumi Kirema,Sun Mar 26 2023 20:33:24 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,141376694-8,e-ICI Control Program,0792290549,stella kageni mwongera
+25469,Jacinta Karimi Kimathi,Sun Mar 26 2023 20:32:14 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,800882283-8,e-ICI Control Program,0728765660,Denis  Munene
+25466,milicent kathure machira,Sun Mar 26 2023 20:29:34 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,441161003-5,e-ICI Control Program,0721300953,Domitilla Mwari Maore
+25457,Salome Nkoroi Baariu,Sun Mar 26 2023 20:28:00 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,791982636-7,e-ICI Control Program,0792866757,Denis  Munene
+25453,Jerusha Kaimuri Julius,Sun Mar 26 2023 20:26:49 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,124867676-7,e-ICI Control Program,0756399138,Denis  Munene
+25448,Mary Kathao Miriti,Sun Mar 26 2023 20:25:40 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,469693339-1,e-ICI Control Program,0713104946,Denis  Munene
+25435,Agnes Muthoni Daniel,Sun Mar 26 2023 20:22:21 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,867006600-3,e-ICI Control Program,0726986655,Denis  Munene
+25431,Angesina Kinya Peter,Sun Mar 26 2023 20:20:32 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,830172963-1,e-ICI Control Program,0113858267,Denis  Munene
+25424,Edith Karimi Stanley,Sun Mar 26 2023 20:19:10 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,343307848-6,e-ICI Control Program,0724462094,Denis  Munene
+25420,Joyce Kanja Mutua,Sun Mar 26 2023 20:18:07 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,963167989-2,e-ICI Control Program,0721388735,Denis  Munene
+25390,Elizabeth Mukethi Kimathi,Sun Mar 26 2023 20:16:54 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,777837669-4,e-ICI Control Program,0724711032,Denis  Munene
+25380,Jerusha Kinya Kobia,Sun Mar 26 2023 20:16:02 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,062928700-4,e-ICI Control Program,0716642561,Denis  Munene
+25375,Rebecca Bora Mbaabu,Sun Mar 26 2023 20:12:58 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,961988423-3,e-ICI Control Program,0725851758,Denis  Munene
+25368,Sabina Mukoiti Silas,Sun Mar 26 2023 20:11:16 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,612147276-2,e-ICI Control Program,0715869235,Denis  Munene
+25351,lydia kairu joshua,Sun Mar 26 2023 20:09:47 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,412492076-2,e-ICI Control Program,0729921268,Domitilla Mwari Maore
+25346,MERCY KAYUYU MURIKI,Sun Mar 26 2023 20:08:33 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,680929303-5,e-ICI Control Program,0714682752,stella kageni mwongera
+25330,Susan Mwakiria Ntongai,Sun Mar 26 2023 20:06:48 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,842879098-7,e-ICI Control Program,0723955841,Denis  Munene
+25318,mercy Kayume Kingeru,Sun Mar 26 2023 20:05:54 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,081133460-6,e-ICI Control Program,0727157484,Denis  Munene
+25315,Lydia Kairu Joshua,Sun Mar 26 2023 20:04:44 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,761062830-2,e-ICI Control Program,0729921268,Denis  Munene
+25274,Teresina Kaburu John,Sun Mar 26 2023 20:03:38 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,616803172-9,e-ICI Control Program,0727544268,Denis  Munene
+25267,Beatrice Makena Miriti,Sun Mar 26 2023 20:02:16 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,024399379-7,e-ICI Control Program,0717136985,Denis  Munene
+25261,Teresa Karuta Mugambi,Sun Mar 26 2023 19:56:08 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,027890436-2,e-ICI Control Program,0711130900,Denis  Munene
+25257,Martha Kinya Maithula,Sun Mar 26 2023 19:54:09 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,817020104-3,e-ICI Control Program,0711984108,Denis  Munene
+24098,NEEMA KAGENDO PETER,Sun Mar 26 2023 19:40:21 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,810916008-8,EICI IThemba Program,0716145673,Lucy  Kanorio
+24096,kananu  josphine,Sun Mar 26 2023 19:25:43 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,713770329-9,EICI IThemba Program,0719876410,Nancy  Kathambi
+22975,Elizabeth Karwitha Likura,Sun Mar 26 2023 19:09:27 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,896981718-1,EICI IThemba Program,0721218604,Denis  Munene
+25766,ALFAMER KAWIRA MURAGA,Sat Mar 25 2023 13:19:45 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,331616234-0,e-ICI Control Program,0798562185,Denis  Munene
+25759,Janet Kaunanku Ikiao,Sat Mar 25 2023 12:48:48 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,039461686-6,EICI IThemba Program,0712402350,Denis  Munene
+25756,Isabella Kathure Gitonga,Sat Mar 25 2023 12:31:40 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,291782217-9,EICI IThemba Program,0714397965,Denis  Munene
+25752,Angelica Ncabani Samuel,Fri Mar 24 2023 13:29:47 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,109168878-6,EICI IThemba Program,0710222433,Pauline Kendi 
+25736,Lucy Gaciumia Kimathi,Fri Mar 24 2023 13:13:48 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,646341279-8,EICI IThemba Program,0712486073,Denis  Munene
+25685,Elizabeth Nduku Tuti,Fri Mar 24 2023 13:12:04 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,734336248-4,e-ICI Control Program,0720499740,Pauline Kendi 
+25674,EUNICE MUKIRI NDEGWA,Fri Mar 24 2023 12:59:12 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,970336080-1,EICI IThemba Program,0724074595,Denis  Munene
+24541,Ann Kathure Mwamba,Fri Mar 24 2023 11:40:25 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,183160986-0,e-ICI Control Program,0715298655,Alice Muthoni Gitonga
+24537,JANE KINANU NANJAU,Fri Mar 24 2023 11:35:46 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,402112963-2,e-ICI Control Program,0728800009,Alice  Gachagua
+24536,Eunice nduru muriira,Fri Mar 24 2023 11:34:54 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,667264142-7,e-ICI Control Program,0715352843,Alice Muthoni Gitonga
+24531,Esther Njoki Kimathi,Fri Mar 24 2023 11:33:52 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,724314346-3,e-ICI Control Program,0720373952,Alice Muthoni Gitonga
+24524,ANASTACIA NTARARA MWENDA,Fri Mar 24 2023 11:33:09 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,820634464-3,e-ICI Control Program,0701369112,Alice  Gachagua
+24520,JEPHITHA KAARI JULIANO,Fri Mar 24 2023 11:31:49 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,792986043-0,e-ICI Control Program,0715803219,Alice  Gachagua
+24514,caroline ntinyari kirimi,Fri Mar 24 2023 11:30:29 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,861229414-3,e-ICI Control Program,0716932642,Alice Muthoni Gitonga
+24512,JANE NYAI KITHINJI,Fri Mar 24 2023 11:29:43 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,310747868-1,e-ICI Control Program,0114661818,Alice  Gachagua
+24013,ADELINA JUNIUS KABURU,Fri Mar 24 2023 11:28:38 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,121667970-2,e-ICI Control Program,0727302409,Alice Muthoni Gitonga
+23890,Alice muthoni kamundia,Fri Mar 24 2023 11:27:39 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,284921687-0,e-ICI Control Program,0729287847,Beth w Kahuha
+22917,FLORIDAH NGUGI DAVID,Fri Mar 24 2023 11:25:58 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,888812671-4,e-ICI Control Program,0716386640,stephen karuru 
+9942,zipporah mukami nyaga,Fri Mar 24 2023 11:25:01 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,697710302-4,e-ICI Control Program,0723755135,Super  User
+24781,MERCY KARIMI MUTIGA,Fri Mar 24 2023 11:02:08 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,910068678-2,e-ICI Control Program,0721130741,Denis  Munene
+24777,CHARITY KAGENDO KITHAKA,Fri Mar 24 2023 11:00:55 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,934939637-5,e-ICI Control Program,0705439716,Denis  Munene
+24773,MERCY GATWIRI MUNENE,Fri Mar 24 2023 10:59:25 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,972001869-7,e-ICI Control Program,0700668265,Denis  Munene
+24768,Evangeline Nkuene Kinyua,Fri Mar 24 2023 10:52:32 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,374308829-0,EICI IThemba Program,0723087072,Jacqueline G Joshua
+24761,Doreen Kagendo Daniel,Fri Mar 24 2023 10:46:21 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,768363123-3,EICI IThemba Program,0717376371,Jacqueline G Joshua
+24758,JOY KANANA MWEBIA,Fri Mar 24 2023 10:41:03 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,813991968-5,EICI IThemba Program,0111348525,Denis  Munene
+24758,JOY KANANA MWEBIA,Thu Mar 23 2023 15:04:01 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,813991968-5,EICI IThemba Program,0111348525,Denis  Munene
+24757,DAMARIS GATWIRI MUGAMBI,Thu Mar 23 2023 15:00:31 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,324200292-5,EICI IThemba Program,0712150280,Edwin  Odoyo
+24751,Regina Kiende Kirima,Thu Mar 23 2023 14:54:08 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,001367173-0,e-ICI Control Program,0716204492,Jacqueline G Joshua
+24748,ISABELA KATHAMBI MURUNGI,Thu Mar 23 2023 14:50:05 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,228601310-3,EICI IThemba Program,0728526590,Denis  Munene
+24746,LYDIAH KAGURI MOBI,Thu Mar 23 2023 14:40:18 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,410232026-6,EICI IThemba Program,0725599900,Denis  Munene
+24741,SACIENTA IGOKI M'IBARI,Thu Mar 23 2023 14:38:28 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,681237849-2,e-ICI Control Program,0715368375,Denis  Munene
+24739,JANE GATWIRI BARINE,Thu Mar 23 2023 14:32:14 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,826802690-6,EICI IThemba Program,0713499707,Denis  Munene
+24729,LYDIAH NKIROTE MUTWEMERI,Thu Mar 23 2023 14:30:12 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,112722862-3,e-ICI Control Program,0721987971,Denis  Munene
+24720,Polly Kendi Gatuguti,Thu Mar 23 2023 14:24:33 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,332949611-5,EICI IThemba Program,0769607387,Jacqueline G Joshua
+24716,Teresa Gaceri Gicuru,Thu Mar 23 2023 14:22:38 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,227074923-3,e-ICI Control Program,0712113683,Jacqueline G Joshua
+24023,Rose Kendi Marete,Thu Mar 23 2023 10:11:37 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,961170741-6,e-ICI Control Program,0725913766,Alice  Gachagua
+24195,Linda Kanana Ngunjiri,Thu Mar 23 2023 09:58:19 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,122299762-7,EICI IThemba Program,0790404664,Fransisca  Ncebere
+24208,Harriet Kinya Ruuri,Thu Mar 23 2023 09:54:08 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,680468628-2,EICI IThemba Program,0725773288,Fransisca  Ncebere
+24226,Hawo Garbole Dambala,Thu Mar 23 2023 09:51:56 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,488073696-4,EICI IThemba Program,0724883945,Fransisca  Ncebere
+24708,Linet Wanjiku Mwaniki,Wed Mar 22 2023 11:59:04 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,360466608-5,EICI IThemba Program,0711403981,Jacqueline G Joshua
+24698,Agnes Igoki Francis,Wed Mar 22 2023 11:57:35 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,043403214-0,e-ICI Control Program,0729910958,Jacqueline G Joshua
+24697,SUSAN WANJA GATUGUTI,Wed Mar 22 2023 11:53:03 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,492399408-3,EICI IThemba Program,0704186132,Denis  Munene
+24696,Doreen Kawira Kirimi,Wed Mar 22 2023 11:50:54 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,674077197-4,e-ICI Control Program,0703290807,Jacqueline G Joshua
+24694,Dorcas Muthoni Nyamu,Wed Mar 22 2023 11:48:43 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,342863779-1,e-ICI Control Program,0703650811,Jacqueline G Joshua
+24692,SALOME MAKENA IRERI,Wed Mar 22 2023 11:44:36 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,846476464-9,e-ICI Control Program,0724316309,Denis  Munene
+24688,Lucy Gatwiri John,Wed Mar 22 2023 11:33:10 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,198228034-7,EICI IThemba Program,0728564434,Jacqueline G Joshua
+24666,Irene Gakii Muriuki,Wed Mar 22 2023 11:28:21 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,893737649-2,EICI IThemba Program,0716839521,Denis  Munene
+24663,Rose Makena Mwenda,Wed Mar 22 2023 11:22:03 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,338689967-2,EICI IThemba Program,0714941591,Denis  Munene
+24657,Consolata Ngugi Mwongera,Wed Mar 22 2023 11:20:49 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,772216437-8,e-ICI Control Program,0721669927,Denis  Munene
+24650,Fidis Kawira Phineas,Wed Mar 22 2023 11:17:23 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,863409082-6,EICI IThemba Program,0718462462,Jacqueline G Joshua
+24649,Nancy Nkirote Tomas,Wed Mar 22 2023 11:14:34 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,266192628-3,e-ICI Control Program,0726749129,Jacqueline G Joshua
+24648,Jacinta Kathambi Nkonge,Wed Mar 22 2023 11:07:31 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,384330410-0,EICI IThemba Program,0728281016,Denis  Munene
+24647,damaris gatwiri mugambi,Wed Mar 22 2023 10:59:54 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,238269010-1,EICI IThemba Program,0712150280,Domitilla Mwari Maore
+24645,Keziah Mwendwa Kirimi,Wed Mar 22 2023 10:58:42 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,191446382-1,e-ICI Control Program,0727376317,Denis  Munene
+24644,Faith Kinanu Mbaya,Wed Mar 22 2023 10:55:09 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,347280977-5,EICI IThemba Program,0724424519,Jacqueline G Joshua
+24643,Domitillah  Gatwiri,Wed Mar 22 2023 10:53:57 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,637268689-6,e-ICI Control Program,0723500703,Denis  Munene
+24640,Joy Wanja Linus,Wed Mar 22 2023 10:49:43 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,879473322-3,EICI IThemba Program,0723032260,Denis  Munene
+25673,Ann Kamami Rimberia,Tue Mar 21 2023 17:45:25 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,468110089-9,EICI IThemba Program,0727398657,Pauline Kendi 
+25672,damaris KENDI THURANIRA,Tue Mar 21 2023 17:41:03 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,928433128-8,e-ICI Control Program,0724150694,Denis  Munene
+25670,jackline ntinyari mwika,Tue Mar 21 2023 17:34:21 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,308943164-1,EICI IThemba Program,0719552923,Denis  Munene
+25665,Mercy Ngugi Dennis,Tue Mar 21 2023 17:25:00 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,380128927-7,EICI IThemba Program,0718222485,Denis  Munene
+25663,HARRIET MWARI M'KAIRANYA,Tue Mar 21 2023 17:22:16 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,863221231-5,e-ICI Control Program,0708529391,Pauline Kendi 
+25662,Sabina Kawira Romano,Tue Mar 21 2023 17:12:27 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,383908009-4,EICI IThemba Program,0710513405,Denis  Munene
+25659,Paulina Kaari Mburunga,Tue Mar 21 2023 17:05:43 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,272127792-5,EICI IThemba Program,0726785413,Denis  Munene
+25653,Norah Kanario Muriuki,Tue Mar 21 2023 16:50:51 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,333378920-8,e-ICI Control Program,0797376996,Denis  Munene
+25649,Margaret Nyoroka Kibuthania,Tue Mar 21 2023 16:39:37 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,978109167-4,EICI IThemba Program,0712635866,Denis  Munene
+25644,Paula Kinya Kiramnya,Tue Mar 21 2023 16:19:06 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,176222709-6,EICI IThemba Program,0701153818,Denis  Munene
+25255,Sofia Njeri Mutuma,Tue Mar 21 2023 15:33:34 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,300432491-3,e-ICI Control Program,0795571071,Denis  Munene
+25249,Ruth Karambu garvase,Tue Mar 21 2023 15:31:50 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,762664241-2,e-ICI Control Program,0727109312,Denis  Munene
+25244,Elizabeth Mutitu Njiru,Tue Mar 21 2023 15:30:15 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,014814967-7,e-ICI Control Program,0741815550,Denis  Munene
+25240,Jane Kadhure Domiciano,Tue Mar 21 2023 15:28:44 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,818679228-2,e-ICI Control Program,0724157053,Denis  Munene
+25236,celina nkatha kimathi,Tue Mar 21 2023 15:27:24 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,388194313-2,e-ICI Control Program,0700451972,Domitilla Mwari Maore
+25235,Eunice Mwontune Mwenda,Tue Mar 21 2023 15:26:23 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,631497806-2,e-ICI Control Program,0710577459,Denis  Munene
+25225,Mercy Karimi Miriti,Tue Mar 21 2023 15:25:22 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,616036002-7,e-ICI Control Program,0707469483,Denis  Munene
+25219,Elizabeth Kathure Charles,Tue Mar 21 2023 15:24:10 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,824327983-6,e-ICI Control Program,0718626094,Denis  Munene
+25208,Celina Nkatha Kimathi,Tue Mar 21 2023 15:22:59 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,998730311-3,e-ICI Control Program,0700451972,Denis  Munene
+25204,Margaret Nkio MWIRIA,Tue Mar 21 2023 15:21:35 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,736074677-5,e-ICI Control Program,0717533981,Denis  Munene
+25198,Susan KINYA Mwenda,Tue Mar 21 2023 15:19:53 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,411133322-7,e-ICI Control Program,0792786063,Denis  Munene
+25189,Salome Kalintu Mbeeria,Tue Mar 21 2023 15:18:12 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,780982207-0,e-ICI Control Program,0706074610,Denis  Munene
+25188,LUCY KABIRITHO MWITI,Tue Mar 21 2023 15:16:28 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,193664423-4,e-ICI Control Program,0740707829,Linda  Githinji
+25187,Ann Karambu Baariu,Tue Mar 21 2023 15:14:49 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,097402668-4,e-ICI Control Program,0111204930,Denis  Munene
+25183,Salome Kabilu M'Mwithia,Tue Mar 21 2023 15:13:16 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,142866161-3,e-ICI Control Program,0712842758,Denis  Munene
+25180,lydia mukila juel,Tue Mar 21 2023 15:09:45 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,600406686-3,e-ICI Control Program,0715859276,Domitilla Mwari Maore
+25178,Harriet Karimi Gerald,Tue Mar 21 2023 15:07:52 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,127103231-8,e-ICI Control Program,0725398736,Denis  Munene
+25177,SEBERINA Kanana Joel,Tue Mar 21 2023 15:06:11 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,147108374-9,e-ICI Control Program,0715438971,Denis  Munene
+25175,CATHERINE KANINI MIRITI,Tue Mar 21 2023 15:04:33 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,402697843-9,e-ICI Control Program,0722135092,Denis  Munene
+25163,Mary Karauki Baariu,Tue Mar 21 2023 15:00:16 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,767039870-5,e-ICI Control Program,0725779050,Denis  Munene
+25152,Rael Kajuju Stanley,Tue Mar 21 2023 14:58:03 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,947988119-6,e-ICI Control Program,0794548991,Denis  Munene
+25150,Agnes Mwakithi Itabari,Tue Mar 21 2023 14:56:49 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,368604089-4,e-ICI Control Program,0712186440,Denis  Munene
+25147,Teresia Wanjiru David,Tue Mar 21 2023 14:55:10 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,264886723-8,e-ICI Control Program,0727574385,Denis  Munene
+25146,Virginia Mwankamia Bruno,Tue Mar 21 2023 14:53:27 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,098743178-0,e-ICI Control Program,0723754915,Denis  Munene
+25145,SABINA NKIROTE CHOKERA,Tue Mar 21 2023 14:51:51 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,936413211-9,e-ICI Control Program,0727861563,Linda  Githinji
+24099,PRISCILLAH KAANIRU IKIGU,Tue Mar 21 2023 14:49:48 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,409388633-3,e-ICI Control Program,0728023649,Linda  Githinji
+24639,Sielia Kajira Gitonga,Tue Mar 21 2023 14:18:37 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,962310774-6,EICI IThemba Program,0710655181,Jacqueline G Joshua
+24634,Catherine Ncabira Silas,Tue Mar 21 2023 14:16:24 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,962303303-3,e-ICI Control Program,0729886800,Denis  Munene
+24629,Lucyline  Kagendo,Tue Mar 21 2023 14:14:34 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,423183047-4,e-ICI Control Program,0729516028,Denis  Munene
+24627,Caroline Kamene Kimathi,Tue Mar 21 2023 14:08:25 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,467629878-1,EICI IThemba Program,0746383990,Jacqueline G Joshua
+24625,Rebeca Karimi Daniel,Tue Mar 21 2023 14:03:39 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,928912944-8,EICI IThemba Program,0712924633,Jacqueline G Joshua
+24622,Dorcas Ngugi Kithinji,Tue Mar 21 2023 14:01:51 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,124680663-0,e-ICI Control Program,0700066887,Jacqueline G Joshua
+24621,Jane  Inoti,Tue Mar 21 2023 13:56:41 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,941942961-9,EICI IThemba Program,0719269580,Denis  Munene
+24618,Grace Muthoni Murithi,Tue Mar 21 2023 13:52:26 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,681740884-9,EICI IThemba Program,0729896355,Denis  Munene
+24614,Lucyline Gakii Magaju,Tue Mar 21 2023 13:50:24 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,160239219-1,e-ICI Control Program,0726059303,Jacqueline G Joshua
+24590,mercy kendi mugambi,Tue Mar 21 2023 13:46:00 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,484340691-1,EICI IThemba Program,0726456365,Alice Muthoni Gitonga
+24587,lucy mukami mutahi,Tue Mar 21 2023 13:41:06 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,884116971-0,e-ICI Control Program,0719172742,Alice Muthoni Gitonga
+24583,joseline kagure gikunda,Tue Mar 21 2023 13:35:01 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,916494262-6,e-ICI Control Program,0727326099,Alice Muthoni Gitonga
+24579,joseline nkatha mwenda,Tue Mar 21 2023 13:31:39 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,887420719-7,EICI IThemba Program,0726414716,Alice Muthoni Gitonga
+24576,fidid rima festus,Tue Mar 21 2023 13:27:21 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,486343886-9,EICI IThemba Program,0727968964,Alice Muthoni Gitonga
+24574,doreen kajau mugambi,Tue Mar 21 2023 13:25:25 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,976099238-9,e-ICI Control Program,0719382700,Alice Muthoni Gitonga
+24566,Beatrice Kaguri Mutwiri,Tue Mar 21 2023 13:14:58 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,107269014-0,EICI IThemba Program,0759194075,Alice Muthoni Gitonga
+24561,DOROTHY KAGWIRIA MUTUGI,Tue Mar 21 2023 13:12:31 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,799213444-0,EICI IThemba Program,0792954469,Alice  Gachagua
+24560,Rosemary Kinanu Kaburu,Tue Mar 21 2023 13:11:28 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,336898846-9,e-ICI Control Program,0710573998,Alice Muthoni Gitonga
+24556,SILVERIA KATHURE SABERIO,Tue Mar 21 2023 13:06:34 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,479647978-2,e-ICI Control Program,0727200707,Alice  Gachagua
+24552,pamela gacheri mbabu,Tue Mar 21 2023 13:05:27 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,319144371-6,e-ICI Control Program,0798725501,Alice Muthoni Gitonga
+24549,Josphine Nkirote Gatobu,Tue Mar 21 2023 13:00:19 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,976241399-6,EICI IThemba Program,0711704908,Alice Muthoni Gitonga
+24544,Ether Kinanu Nkanata,Tue Mar 21 2023 12:58:03 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,931686967-7,EICI IThemba Program,0712877723,Alice Muthoni Gitonga
+22969,PURITY NKATHA MWENDA,Tue Mar 21 2023 11:56:14 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,620628282-1,e-ICI Control Program,0702829637,stephen karuru 
+25642,Judith Karwitha Muchoka,Mon Mar 20 2023 18:05:04 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,177606248-9,e-ICI Control Program,0729483798,Denis  Munene
+25641,Ruth Phillp Inokobia,Mon Mar 20 2023 18:02:12 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,202842863-5,e-ICI Control Program,0720041787,Denis  Munene
+25639,Karen Gacheri Mbwiria,Mon Mar 20 2023 17:54:33 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,270483704-2,EICI IThemba Program,0724872803,Denis  Munene
+25636,Judy Kanario Mwirichia,Mon Mar 20 2023 17:51:50 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,001446817-7,e-ICI Control Program,0710824559,Denis  Munene
+25633,Doris Gakii Martin,Mon Mar 20 2023 17:38:35 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,637784019-1,EICI IThemba Program,0719227370,Denis  Munene
+25630,Miriam Nkirote Miriti,Mon Mar 20 2023 17:30:37 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,992230191-7,EICI IThemba Program,0703850981,Denis  Munene
+25627,Florah Wambui Kithinji,Mon Mar 20 2023 17:28:34 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,343168270-1,e-ICI Control Program,0724953712,Denis  Munene
+25623,Cathrine Gacheri Mwiti,Mon Mar 20 2023 16:56:26 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,809200304-8,e-ICI Control Program,0726140403,Denis  Munene
+25618,Jane Kananu Martin,Mon Mar 20 2023 16:50:49 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,118207026-6,EICI IThemba Program,0794978772,Pauline Kendi 
+25619,KAGWIRIA MONICA KOBIA,Mon Mar 20 2023 16:40:55 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,440164297-2,EICI IThemba Program,0712362552,Domitilla Mwari Maore
+25617,Salome Gacheri Munyi,Mon Mar 20 2023 16:03:13 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,163031919-0,EICI IThemba Program,0724748252,Denis  Munene
+23839,ESTHER MUKIRI MEEME,Mon Mar 20 2023 16:01:17 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,363036332-7,e-ICI Control Program,0715854431,Pauline Kendi 
+25616,TERESIA NKIROTE M'erimba,Mon Mar 20 2023 15:59:24 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,861794170-6,e-ICI Control Program,0704193552,Stella  Makandi
+23837,gladys njabani kiengu,Mon Mar 20 2023 15:45:55 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,970237996-8,EICI IThemba Program,0798740417,Pauline Kendi 
+25611,Faith Kangai M'rewa,Mon Mar 20 2023 15:43:00 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,994219311-2,e-ICI Control Program,0727280541,Denis  Munene
+25609,Agnes Kathure Murungi,Mon Mar 20 2023 15:29:46 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,191688961-9,e-ICI Control Program,0792489060,Denis  Munene
+22991,AGNES MUGURE MIRITI,Mon Mar 20 2023 15:04:57 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,396483661-7,e-ICI Control Program,0712067909,stephen karuru 
+25906,purity mwari m'toboroki,Sun Mar 19 2023 17:18:50 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,923927804-8,EICI IThemba Program,0728766520,Domitilla Mwari Maore
+25903,Priscila Kaguri Kirimi,Sun Mar 19 2023 17:11:32 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,030162741-0,EICI IThemba Program,0722569665,Denis  Munene
+25899,Florence Mwakithi Kaunangi,Sun Mar 19 2023 17:07:41 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,371831799-7,EICI IThemba Program,0708332683,Denis  Munene
+26112,Christine Gatwiri Michael,Sun Mar 19 2023 15:54:48 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,997206219-5,e-ICI Control Program,0746535794,Denis  Munene
+26079,Rael Kanja Ntokwaria,Sun Mar 19 2023 15:50:13 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,164779892-3,e-ICI Control Program,0715254781,Hattie  Maina
+26062,Mercy Kiregi Kaburu,Sun Mar 19 2023 15:46:10 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,297874383-5,e-ICI Control Program,0708459847,Denis  Munene
+26040,Gladys Kajuju M'Mugambi,Sun Mar 19 2023 15:42:53 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,444646492-9,e-ICI Control Program,0729368867,Denis  Munene
+26035,Phyllis Makandi Muthaura,Sun Mar 19 2023 15:40:44 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,940237812-0,e-ICI Control Program,0715270784,Denis  Munene
+26033,Charity Makena Rufus,Sun Mar 19 2023 15:38:26 GMT+0300 (East Africa Time),5240,lost,Meru County,Meru County Referral Hospital,676624692-7,e-ICI Control Program,0724614490,Denis  Munene
+26031,LUCY KANANU MATHENGE,Sun Mar 19 2023 15:35:46 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,217907829-6,e-ICI Control Program,0727358324,Denis  Munene
+26017,Caroline Mukiri Munene,Sun Mar 19 2023 15:34:38 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,616701874-3,e-ICI Control Program,0703864041,Denis  Munene
+26008,Caroline Karambu Mutuma,Sun Mar 19 2023 15:32:05 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,133838191-4,e-ICI Control Program,0757141676,Denis  Munene
+26006,Doreen Kajuju gatobu,Sun Mar 19 2023 15:31:03 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,240809013-8,e-ICI Control Program,0705382186,Denis  Munene
+25974,Prisca Makena Kimathi,Sun Mar 19 2023 15:29:21 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,911192720-9,e-ICI Control Program,0797415743,Denis  Munene
+25911,Joyce Nkatha Ngorua,Sun Mar 19 2023 15:28:39 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,841370221-1,e-ICI Control Program,0727656388,Denis  Munene
+23836,Margaret Kananu Mutiga,Fri Mar 17 2023 13:16:59 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,308092299-4,e-ICI Control Program,0726085471,Stella  Kinyua
+23645,Regina Kendi Erimba,Fri Mar 17 2023 13:13:05 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,189930383-6,e-ICI Control Program,0713085988,Damaris  Birithia
+22991,AGNES MUGURE MIRITI,Fri Mar 17 2023 13:10:05 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,396483661-7,e-ICI Control Program,0712067909,stephen karuru 
+24540,BEATRICE NGUGI JOEL,Fri Mar 17 2023 12:57:53 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,829620028-3,EICI IThemba Program,0724004775,Alice  Gachagua
+24535,LUCY MUGAINE NDUMBA,Fri Mar 17 2023 12:47:15 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,296891797-7,EICI IThemba Program,0728053652,Alice  Gachagua
+25111,Teresia Kathure Kaberia,Fri Mar 17 2023 12:13:33 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,211790242-5,EICI IThemba Program,0759717558,Denis  Munene
+25076,Pauline Wanjiru Munyori,Fri Mar 17 2023 12:09:41 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,434874260-4,EICI IThemba Program,0704504518,Denis  Munene
+25031,CICILIA WAMBUI MWANGI,Fri Mar 17 2023 11:46:50 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,260832248-9,EICI IThemba Program,0716415197,Domitilla Mwari Maore
+25030,LEAH WANGUI JAPHET,Fri Mar 17 2023 11:27:19 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,810218732-8,EICI IThemba Program,0711173642,Faith  Wanja
+25019,PURITY KIRUMBA GATOMBU,Fri Mar 17 2023 11:10:20 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,870198872-0,EICI IThemba Program,0703101560,Domitilla Mwari Maore
+25015,WINFRED NJERI EPHRAIM,Fri Mar 17 2023 10:35:32 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,108306280-0,EICI IThemba Program,0796740255,Gladys Wanja Mugo
+24993,ANN MAKENA KIRIMI,Thu Mar 16 2023 17:14:11 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,011897318-9,EICI IThemba Program,0710458268,Gladys Wanja Mugo
+24991,DORCAS NYOROKA NORMAN,Thu Mar 16 2023 17:04:25 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,422664884-0,EICI IThemba Program,0704055585,Gladys Wanja Mugo
+24973,CHRISTINE MAKENA KABURU,Thu Mar 16 2023 16:58:29 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,034960729-1,EICI IThemba Program,0799493931,Domitilla Mwari Maore
+24971,BEATRICE KANANU ISAIAH,Thu Mar 16 2023 16:47:45 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,381669809-0,EICI IThemba Program,0702285964,Faith  Wanja
+24967,EVALYNE KAKONI ENOCK,Thu Mar 16 2023 16:41:24 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,977931623-2,EICI IThemba Program,0745217270,Faith  Wanja
+24534,lucy gaiti murithi,Thu Mar 16 2023 15:48:41 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,426278646-2,EICI IThemba Program,0710425755,Alice Muthoni Gitonga
+24532,HELLEN KANANA KINYIURU,Thu Mar 16 2023 15:42:04 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,173974893-5,EICI IThemba Program,0711796157,Alice  Gachagua
+24530,susan kathure mtwikirima,Thu Mar 16 2023 15:40:42 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,240467262-4,EICI IThemba Program,0710559023,Alice Muthoni Gitonga
+24958,LINET KANANA MWIRIGI,Wed Mar 15 2023 16:56:39 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,613337981-5,EICI IThemba Program,0720253696,Gladys Wanja Mugo
+24957,FANON KATHAMBI MANYARA,Wed Mar 15 2023 16:45:41 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,707728438-3,EICI IThemba Program,0725902664,Faith  Wanja
+25123,Mary Gakii Muthee,Wed Mar 15 2023 16:43:13 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,242366488-3,e-ICI Control Program,0715245250,Denis  Munene
+25112,Alice Karambu Kaiyera,Wed Mar 15 2023 16:42:22 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,230943982-2,e-ICI Control Program,0111678530,Denis  Munene
+25039,JANE GACHERI NKIIRI,Wed Mar 15 2023 16:41:36 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,344921101-4,e-ICI Control Program,0712450683,Domitilla Mwari Maore
+25034,TUME  WARIO,Wed Mar 15 2023 16:39:22 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,900612316-1,e-ICI Control Program,0741889119,Faith  Wanja
+25014,DAMARIS ATIENO OGOCH,Wed Mar 15 2023 16:38:38 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,434389073-9,e-ICI Control Program,0700004730,Faith  Wanja
+25010,PAMELA KARAMBU NKIROTE,Wed Mar 15 2023 16:37:52 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,098390849-2,e-ICI Control Program,0756272973,Gladys Wanja Mugo
+25007,ANNAH  WANJIKU,Wed Mar 15 2023 16:36:54 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,448960979-4,e-ICI Control Program,0757741742,Faith  Wanja
+25006,GLADYS CHELAGAT NGENY,Wed Mar 15 2023 16:35:38 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,131139710-1,e-ICI Control Program,0757696242,Gladys Wanja Mugo
+25003,FRIDAH MORAA MOMANYI,Wed Mar 15 2023 16:34:49 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,448049791-8,e-ICI Control Program,0743055274,Faith  Wanja
+24968,ANN WANGUI KINYANJUI,Wed Mar 15 2023 16:34:03 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,814329982-7,e-ICI Control Program,0705743154,Gladys Wanja Mugo
+24965,ANASTACIA KAGWIRIA MWENDA,Wed Mar 15 2023 16:33:22 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,932110967-1,e-ICI Control Program,0723380963,Gladys Wanja Mugo
+24962,FAITH KANANU MUROKI,Wed Mar 15 2023 16:32:43 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,439784288-3,e-ICI Control Program,0713348516,Faith  Wanja
+24948,JUSTER KANANU JOSHUA,Wed Mar 15 2023 16:31:04 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,383863371-1,e-ICI Control Program,0798525876,Faith  Wanja
+24945,REBECCA MWIKALI MULI,Wed Mar 15 2023 16:30:01 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,917329627-9,e-ICI Control Program,0721745787,Gladys Wanja Mugo
+24936,EDITH NTINYARI KINOTI,Wed Mar 15 2023 16:29:02 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,372418313-6,e-ICI Control Program,0711234541,Gladys Wanja Mugo
+24920,STELLA CHERONO KOECH,Wed Mar 15 2023 16:28:08 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,179219606-3,e-ICI Control Program,0711996913,Gladys Wanja Mugo
+24919,Alice kajiumia NJAGI,Wed Mar 15 2023 16:26:51 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,903976933-7,e-ICI Control Program,0706767698,Faith  Wanja
+24914,CATHERINE MURUGI KINYUA,Wed Mar 15 2023 16:25:48 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,033929200-5,e-ICI Control Program,0724641858,Gladys Wanja Mugo
+24912,Aniceta gakii mwamba,Wed Mar 15 2023 16:25:05 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,906284643-2,e-ICI Control Program,0721831970,Faith  Wanja
+24901,HYLINE KWAMBOKA ONGATA,Wed Mar 15 2023 16:24:31 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,789047969-9,e-ICI Control Program,0711575550,Gladys Wanja Mugo
+24828,ROSE RIGIRI M'IGWETA,Wed Mar 15 2023 16:23:32 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,678771912-6,e-ICI Control Program,0707247901,Gladys Wanja Mugo
+24824,Jane Maiti Matumbi,Wed Mar 15 2023 16:22:45 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,193609163-4,e-ICI Control Program,0720989619,Faith  Wanja
+24817,CAROLINE KENDI NJIRITHIA,Wed Mar 15 2023 16:22:09 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,911702907-5,e-ICI Control Program,0725436870,Gladys Wanja Mugo
+24816,HADIJAH KENDI HAMISI,Wed Mar 15 2023 16:21:13 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,826112712-3,e-ICI Control Program,0701116956,Gladys Wanja Mugo
+23982,SEVERINA MUROTHI MUROKI,Wed Mar 15 2023 16:20:07 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,901268211-9,e-ICI Control Program,0714349781,Fridah  Kendi
+23775,SALOME KINYA ABDI,Wed Mar 15 2023 16:19:09 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,242234760-5,e-ICI Control Program,0724700929,Fridah  Kendi
+24955,JOSYLINE NKIROTE GITUMA,Wed Mar 15 2023 16:17:51 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,122867172-1,EICI IThemba Program,0712709783,Gladys Wanja Mugo
+24954,POLLY MAKENA KIRUGI,Wed Mar 15 2023 16:08:48 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,723423373-7,EICI IThemba Program,0711384989,Faith  Wanja
+24953,GRACE MAKENA MUGEREKI,Wed Mar 15 2023 16:07:35 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,813807112-4,EICI IThemba Program,0713075954,Domitilla Mwari Maore
+24944,ESTHER NTINYARI NKERAI,Wed Mar 15 2023 16:03:55 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,967387899-8,EICI IThemba Program,0799857662,Faith  Wanja
+24939,PENINAH  KINYA,Wed Mar 15 2023 15:58:58 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,907390168-9,EICI IThemba Program,0707098366,Faith  Wanja
+24927,ANN KAREA MUTEGI,Wed Mar 15 2023 15:36:08 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,626924306-6,EICI IThemba Program,0724517518,Gladys Wanja Mugo
+24923,PHIDIES KIORO KINYUA,Wed Mar 15 2023 15:31:29 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,188982407-2,EICI IThemba Program,0712308914,Domitilla Mwari Maore
+24905,CECILIA NYAWIRA MUCHIRI,Wed Mar 15 2023 15:28:16 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,939291717-6,EICI IThemba Program,0727088361,Gladys Wanja Mugo
+24819,peris kioro murungi,Wed Mar 15 2023 15:18:34 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,729717722-7,EICI IThemba Program,0701929925,Faith  Wanja
+24804,LUCY KATHURE M'ARIMI,Wed Mar 15 2023 15:13:04 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,864889897-4,EICI IThemba Program,0726865857,Gladys Wanja Mugo
+23780,Zipporah Wanja Kithinji,Wed Mar 15 2023 15:08:52 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,728814977-1,EICI IThemba Program,0700835700,Caroline w Mwai
+23772,Dorcas  Muthoni,Wed Mar 15 2023 14:59:59 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,486831040-2,EICI IThemba Program,0715172957,Caroline w Mwai
+22941,JANE KAGWIRIA GATOBU,Wed Mar 15 2023 12:49:18 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,097613811-5,EICI IThemba Program,0729225990,Denis  Munene
+22940,Serah Wanjugu Mwangi,Wed Mar 15 2023 12:23:27 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,378034949-8,EICI IThemba Program,0729647185,Denis  Munene
+24959,CAROLINE WAMBUI MACHARIA,Wed Mar 15 2023 12:12:57 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,122288963-4,EICI IThemba Program,0702731545,Gladys Wanja Mugo
+24639,Sielia Kajira Gitonga,Wed Mar 15 2023 12:08:48 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,962310774-6,EICI IThemba Program,0710655181,Jacqueline G Joshua
+24203,Florah  Karimi,Wed Mar 15 2023 10:57:22 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,217001218-7,e-ICI Control Program,0704527543,Fransisca  Ncebere
+22991,AGNES MUGURE MIRITI,Wed Mar 15 2023 10:56:05 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,396483661-7,e-ICI Control Program,0712067909,stephen karuru 
+25756,Isabella Kathure Gitonga,Wed Mar 15 2023 10:48:08 GMT+0300 (East Africa Time),5622,other,Meru,Nyambene Sub County Hospital,291782217-9,EICI IThemba Program,0714397965,Denis  Munene
+24649,Nancy Nkirote Tomas,Wed Mar 15 2023 10:44:20 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,266192628-3,e-ICI Control Program,0726749129,Jacqueline G Joshua
+24099,PRISCILLAH KAANIRU IKIGU,Wed Mar 15 2023 10:37:08 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,409388633-3,e-ICI Control Program,0728023649,Linda  Githinji
+22917,FLORIDAH NGUGI DAVID,Wed Mar 15 2023 10:34:45 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,888812671-4,e-ICI Control Program,0716386640,stephen karuru 
+9942,zipporah mukami nyaga,Wed Mar 15 2023 10:20:54 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,697710302-4,e-ICI Control Program,0723755135,Super  User
+26045,Lucy Kendi Patrick,Wed Mar 15 2023 10:13:11 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,489898908-4,EICI IThemba Program,0700606714,Denis  Munene
+24199,Nancy Wairimu Karita,Wed Mar 15 2023 09:57:26 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,963626870-9,EICI IThemba Program,0723477217,Fransisca  Ncebere
+27907,Lucy Kathambi Ngore,Tue Mar 14 2023 15:58:15 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,369134880-3,EICI IThemba Program,0798992712,Hattie  Maina
+27846,Doris Kathure Bundi,Tue Mar 14 2023 15:50:07 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,076076249-2,EICI IThemba Program,0717753703,Stella  Makandi
+28263,"FLORENCE NKIROTE M,IBUURI",Tue Mar 14 2023 15:39:55 GMT+0300 (East Africa Time),6483,cancer,Meru County,Meru County Referral Hospital,683689369-0,EICI IThemba Program,0728766599,Stella  Makandi
+29680,Joyce Kagendo Mawira,Tue Mar 14 2023 15:18:33 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,833796193-5,EICI IThemba Program,0729553357,Lewis  Kigunda
+27852,Beatrice Kinya Mwilaria,Tue Mar 14 2023 15:11:47 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,317486649-5,e-ICI Control Program,0715679892,Denis  Munene
+24070,Carolyne Kaburia Kaari,Tue Mar 14 2023 15:03:22 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,328372639-0,e-ICI Control Program,0793807953,Stella  Makandi
+24757,DAMARIS GATWIRI MUGAMBI,Tue Mar 14 2023 15:01:36 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,324200292-5,EICI IThemba Program,0712150280,Edwin  Odoyo
+28121,Purity Kathambi Kiruki,Tue Mar 14 2023 14:29:54 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,694284683-0,EICI IThemba Program,0728525011,Lewis  Kigunda
+24515,Purity Karambu Japhet,Mon Mar 13 2023 14:34:23 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,874286616-6,EICI IThemba Program,0791519553,Alice Muthoni Gitonga
+24013,ADELINA JUNIUS KABURU,Mon Mar 13 2023 12:55:19 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,121667970-2,e-ICI Control Program,0727302409,Alice Muthoni Gitonga
+24508,ALICE KINANU KINANU,Fri Mar 10 2023 11:42:47 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,636329268-8,EICI IThemba Program,0745638379,Alice  Gachagua
+24506,lilian gacheri rukunga,Fri Mar 10 2023 11:36:54 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,043466411-6,EICI IThemba Program,0720247252,Alice Muthoni Gitonga
+23946,Dinah kagwiria Anampiu,Fri Mar 10 2023 11:21:59 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,401123228-9,EICI IThemba Program,0725883924,Jacqueline G Joshua
+23903,catherine kagwiria magiri,Fri Mar 10 2023 11:13:12 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,197291382-4,EICI IThemba Program,0728751859,Jacqueline G Joshua
+23866,Agnes Muthoni mbaya,Fri Mar 10 2023 11:05:14 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,747396164-2,EICI IThemba Program,0714162704,Jacqueline G Joshua
+23848,joselyne makandi Riungu,Fri Mar 10 2023 10:55:45 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,038321724-7,EICI IThemba Program,0710212336,Jacqueline G Joshua
+24067,Idah Kithinji Kinanu,Wed Mar 08 2023 18:04:51 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,083811190-4,e-ICI Control Program,0717444224,Denis  Munene
+24012,Purity Muthoni Mukangu,Wed Mar 08 2023 17:42:32 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,862737769-3,e-ICI Control Program,0710254160,Stella  Makandi
+23985,isabella ngithi mureithi,Wed Mar 08 2023 17:40:11 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,617732434-7,e-ICI Control Program,0724408277,Stella  Makandi
+23981,Fridah  Nkatha,Wed Mar 08 2023 17:37:36 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,709969741-4,e-ICI Control Program,0717640812,Stella  Makandi
+23853,Dorothy  Ntinyari,Wed Mar 08 2023 17:34:36 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,970304027-0,e-ICI Control Program,0743545383,Denis  Munene
+24277,Rose  Kawira,Wed Mar 08 2023 17:03:02 GMT+0300 (East Africa Time),6483,cancer,Meru County,Meru County Referral Hospital,061308326-0,EICI IThemba Program,0718001414,Daniel Mutugi Mwirigi
+24224,Caroline Kathambi Karitho,Wed Mar 08 2023 16:24:09 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,892833961-6,EICI IThemba Program,0791022892,Fransisca  Ncebere
+24206,Mercy Kendi Kaburu,Wed Mar 08 2023 15:49:28 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,411490247-3,EICI IThemba Program,0740755312,Fransisca  Ncebere
+24205,Nancy Kajuju Muga,Wed Mar 08 2023 14:29:27 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,007613108-5,EICI IThemba Program,0727389955,Fransisca  Ncebere
+23817,florence kinya koome,Wed Mar 08 2023 14:06:17 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,988804042-6,EICI IThemba Program,0743106713,Super  User
+23848,joselyne makandi Riungu,Wed Mar 08 2023 14:04:54 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,038321724-7,EICI IThemba Program,0710212336,Jacqueline G Joshua
+24182,Annjoy Nkatha Kithinji,Wed Mar 08 2023 13:58:35 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,910676003-7,EICI IThemba Program,0719608318,Fransisca  Ncebere
+24113,Catherine Kagendo Kinoti,Wed Mar 08 2023 13:41:15 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,426169209-1,EICI IThemba Program,0718525221,Fransisca  Ncebere
+23993,Rael Ndubi Kaaniru,Wed Mar 08 2023 13:39:02 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,786116880-0,EICI IThemba Program,0727726987,Stella  Makandi
+23919,Mercy  Mwendwa,Wed Mar 08 2023 13:18:29 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,611473360-0,EICI IThemba Program,0724230740,Denis  Munene
+23852,agnes gacheri rukaria,Wed Mar 08 2023 12:49:13 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,611882290-4,EICI IThemba Program,0725024120,Fransisca  Ncebere
+23850,justah karegi maingi,Wed Mar 08 2023 12:36:56 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,718629877-9,EICI IThemba Program,0724532709,Stella  Makandi
+24148,Jane Gaiti Mwenda,Wed Mar 08 2023 04:44:44 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,919036421-7,e-ICI Control Program,0790283816,Fransisca  Ncebere
+24156,Felisters  Kagweria,Wed Mar 08 2023 04:44:44 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,078093440-2,e-ICI Control Program,0713833215,Fransisca  Ncebere
+24187,Mercy Nkatha Murithi,Wed Mar 08 2023 04:44:44 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,026074779-5,e-ICI Control Program,0723146621,Denis  Munene
+9942,zipporah mukami nyaga,Mon Mar 06 2023 13:03:02 GMT+0300 (East Africa Time),5622,other,Meru,Kanyakine Sub County Hospital,697710302-4,e-ICI Control Program,0723755135,Super  User
+24552,pamela gacheri mbabu,Wed Dec 21 2022 16:32:07 GMT+0300 (East Africa Time),44,pregnancy,Meru,Kanyakine Sub County Hospital,319144371-6,e-ICI Control Program,0798725501,Alice Muthoni Gitonga
+25885,christine gacuyia ntuetunga,Wed Dec 14 2022 04:44:44 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,146788461-3,e-ICI Control Program,0112000731,Denis  Munene
+23985,isabella ngithi mureithi,Wed Dec 14 2022 04:44:44 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,617732434-7,e-ICI Control Program,0724408277,Stella  Makandi
+28070,Purity Karimi Ringera,Wed Nov 30 2022 15:59:54 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,087804470-0,EICI IThemba Program,0729303064,Lewis  Kigunda
+27760,Lucy Mukogitonga Magiri,Wed Nov 30 2022 12:08:41 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,447483919-0,EICI IThemba Program,0724334876,Denis  Munene
+29035,Purity Gakii Murugu,Wed Nov 23 2022 15:42:43 GMT+0300 (East Africa Time),177296,withdrawal,Meru County,Meru County Referral Hospital,886700200-1,EICI IThemba Program,0705912402,Lewis  Kigunda
+29034,Faith Mukuba Murugu,Wed Nov 23 2022 15:34:09 GMT+0300 (East Africa Time),177296,withdrawal,Meru County,Meru County Referral Hospital,784083408-4,EICI IThemba Program,0701603761,Lewis  Kigunda
+23852,agnes gacheri rukaria,Tue Nov 22 2022 10:28:37 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,611882290-4,EICI IThemba Program,0725024120,Fransisca  Ncebere
+27920,Jennifer Nkirote Magiri,Mon Nov 21 2022 15:20:43 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,491280741-1,e-ICI Control Program,0711152615,Lewis  Kigunda
+27869,joyce gacheri ncebere,Mon Nov 21 2022 11:53:24 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,390303610-5,EICI IThemba Program,0724560944,Stella  Makandi
+27851,Caroline Gakii Kirimi,Mon Nov 21 2022 11:05:03 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,290929311-6,e-ICI Control Program,0726989775,Denis  Munene
+27900,Jane Mwendwa Kiara,Wed Nov 16 2022 12:21:45 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,638876163-4,e-ICI Control Program,0721791914,Denis  Munene
+28533,Mary  Gacheri,Mon Nov 14 2022 11:30:59 GMT+0300 (East Africa Time),44,pregnancy,Meru County,Meru County Referral Hospital,418072991-7,EICI IThemba Program,0742098115,Lewis  Kigunda
+28532,Charity  Chee,Mon Nov 14 2022 11:23:37 GMT+0300 (East Africa Time),177296,withdrawal,Meru County,Meru County Referral Hospital,129420123-9,EICI IThemba Program,0112920132,Lewis  Kigunda
+27522,Jane Mweru Muigai,Thu Nov 03 2022 13:14:01 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,839208648-7,EICI IThemba Program,0791029207,Denis  Munene
+25264,Winnie Kendi Julius,Fri Oct 07 2022 10:05:35 GMT+0300 (East Africa Time),5622,other,,Muthaara Subcounty Hospital,141342262-5,EICI IThemba Program,0742699965,Denis  Munene
+24092,Eunice Kinya Mwirebua,Wed Aug 10 2022 15:17:12 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,612910923-4,e-ICI Control Program,0726388493,Stella  Makandi
+24206,Mercy Kendi Kaburu,Thu Aug 04 2022 14:28:09 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,411490247-3,EICI IThemba Program,0740755312,Fransisca  Ncebere
+24224,Caroline Kathambi Karitho,Thu Aug 04 2022 13:44:42 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,892833961-6,EICI IThemba Program,0791022892,Fransisca  Ncebere
+23776,peninah  nkatha,Thu Jul 21 2022 17:48:09 GMT+0300 (East Africa Time),5622,other,Meru,Timau Sub County Hospital,286616874-9,EICI IThemba Program,0727737090,Faith  Wanja
+24012,Purity Muthoni Mukangu,Fri Jul 15 2022 14:23:09 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,862737769-3,e-ICI Control Program,0710254160,Stella  Makandi
+24067,Idah Kithinji Kinanu,Tue Jul 12 2022 13:18:00 GMT+0300 (East Africa Time),5622,other,Meru County,Meru County Referral Hospital,083811190-4,e-ICI Control Program,0717444224,Denis  Munene
