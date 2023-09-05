@@ -9,12 +9,14 @@ const pdfkit = require('pdfkit');
 const _ = require('lodash');
 
 // Create a MySQL connection pool
-const pool = mysql.createPool({
-  host: 'localhost',
-  user: 'root',
-  password: 'root',
-  database: 'openmrs',
-});
+
+  const pool = mysql.createPool({
+    host: 'localhost',
+    port: 3306,
+    user: 'root',
+    password: 'root',
+    database: 'openmrs',
+  });
 
 const app = express();
 

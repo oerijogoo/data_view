@@ -1,7 +1,7 @@
 {
   "name": "data_view",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,6 +17,7 @@
     "html-pdf": "^3.0.1",
     "json2csv": "^6.0.0-alpha.2",
     "mysql": "^2.18.1",
+    "lodash": "^4.17.21",
     "pdfkit": "^0.13.0"
   }
 }
